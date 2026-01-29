@@ -25,6 +25,8 @@ Besides, there are some other variables:
 - Phytoplankton concentration (Nồng độ thực vật phù du):
 - Dissolved oxygen (Oxy hòa tan) 
 
+Note: Nhiều paper: SST + Chl-a + MLD = core predictors
+
 Data types: NetDCF file
 Source: Corpenius link.
 
