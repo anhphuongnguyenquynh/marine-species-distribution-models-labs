@@ -1,0 +1,1501 @@
+scientificName,taxonKey,individualCount,organismQuantity,organismQuantityType,sex,lifeStage,occurrenceStatus,continent,countryCode,stateProvince,island,decimalLatitude,decimalLongitude,elevation,elevationAccuracy,eventDate,year,month,day
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,TW,Taiwan,,25.128225,121.740675,,,2026-01-01T02:53:13,2026,1.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,MU,,,-20.208448,57.403332,,,2026-01-11T00:00,2026,1.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,19.9316,-156.064225,,,2025-01-14T11:43,2025,1.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,MV,,,4.179925,73.509617,,,2025-02-09T20:06:43,2025,2.0,9.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,LK,Gampaha,,7.210245,79.831384,,,2025-02-22T05:41:15,2025,2.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,SOUTH_AMERICA,AR,Buenos Aires,,-36.699842,-56.674602,,,2025-02-26T07:01:29,2025,2.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,NZ,Bay of Plenty,,-37.59994,176.461099,,,2025-02-01T14:12,2025,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,NZ,Bay of Plenty,,-37.59994,176.461099,,,2025-02-01T14:11,2025,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,NZ,Bay of Plenty,,-37.59994,176.461099,,,2025-02-01T14:11,2025,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,NZ,Bay of Plenty,,-37.59994,176.461099,,,2025-02-01T14:11,2025,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,CR,Guanacaste,,10.665447,-85.68425,,,2025-02-11T10:10:29,2025,2.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,PH,Batangas,,13.7108,120.897259,,,2025-03-02T15:15,2025,3.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,NZ,Taranaki,,-39.773297,174.488056,,,2025-04-13T12:25:53,2025,4.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,LK,Galle,,6.033374,80.217667,,,2025-04-21T07:06,2025,4.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,LK,Matara,,5.971575,80.426917,,,2025-04-20T16:50,2025,4.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,IN,Karnataka,,13.346714,74.701211,,,2025-05-08T06:30:23,2025,5.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,CV,Sal,,16.592692,-22.907067,,,2025-05-01T19:54:52,2025,5.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,26.124914,-94.899583,,,2025-05-03T18:11:12,2025,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,21.587596,-157.65628,,,2025-05-27T08:40:28,2025,5.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,SOUTH_AMERICA,EC,Manabi,,-0.181509,-80.286716,,,2025-05-01T19:28:35,2025,5.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,WF,Singave,,-14.296836,-178.158108,,,2025-06-30T18:56,2025,6.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,PF,Îles du Vent,,-17.478229,-149.871272,,,2025-06-28T14:10,2025,6.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,PF,Îles du Vent,,-17.480321,-149.870173,,,2025-06-28T11:10,2025,6.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,KY,George Town,,19.282587,-81.399942,,,2025-06-24T10:09:39,2025,6.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,ID,,,-4.321895,129.561471,,,2025-06-24T07:56,2025,6.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,ID,,,-4.447092,129.812737,,,2025-06-24T07:56,2025,6.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,ID,Sulawesi Utara,,1.513511,124.890417,,,2025-06-25T18:24:35,2025,6.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,25.726742,-80.155547,,,2025-07-27T15:23:46,2025,7.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,21.547013,-157.723866,,,2025-07-27T04:28,2025,7.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-11.432715,41.138658,,,2025-07-30T16:39,2025,7.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-11.432715,41.138658,,,2025-07-30T16:39,2025,7.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-11.432715,41.138658,,,2025-07-30T16:39,2025,7.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,Unknown,PRESENT,EUROPE,ES,Las Palmas,,27.769229,-15.717487,,,2025-08-02,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Alaska,,57.050889,-135.330482,,,2025-08-29T12:42:13,2025,8.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Alaska,,57.050994,-135.329239,,,2025-08-29T13:49,2025,8.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Alaska,,57.051006,-135.330963,,,2025-08-29T13:26:48,2025,8.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,,PRESENT,ASIA,VN,Phú Yên,,13.088,109.309,,,2025-08-24,2025,8.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,,PRESENT,ASIA,VN,Phú Yên,,13.088,109.309,,,2025-08-24,2025,8.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.959055,41.307781,,,2025-08-02T07:32,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.744874,41.475314,,,2025-08-02T07:32,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.607561,41.273195,,,2025-08-02T15:25,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.959055,41.307781,,,2025-08-02T07:32,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.744874,41.475314,,,2025-08-02T08:58,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.744518,41.477202,,,2025-08-02T15:26,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MZ,,,-10.959055,41.307781,,,2025-08-02T07:32,2025,8.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,25.1644,-80.386864,,,2025-09-15T18:11:46,2025,9.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,39.905944,-69.696078,,,2025-09-30T06:57:08,2025,9.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,39.906061,-69.695247,,,2025-09-30T06:49:22,2025,9.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CO,,,12.621016,-80.445332,,,2025-10-10T16:44,2025,10.0,10.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,TW,,,22.202063,120.083122,,,2025-11-15T08:07:39,2025,11.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,26.54285,-80.013574,,,2025-11-09T11:00,2025,11.0,9.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,RE,Saint-Denis,,-20.971898,55.482314,,,2025-11-14T10:28:02,2025,11.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,26.579206,-95.618941,,,2025-11-22T14:11,2025,11.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,MQ,Saint-Pierre,,14.73974,-61.19298,,,2025-11-30T14:37,2025,11.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,ID,Bali,,-8.356305,115.715422,,,2025-12-12T07:37:01,2025,12.0,12.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,JP,,,28.244892,140.779095,,,2024-01-02T07:28,2024,1.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Adult,PRESENT,ASIA,PH,Camarines Sur,,13.710148,123.597992,,,2024-02-09T06:39,2024,2.0,9.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,ZA,,,-34.62378,21.05925,,,2024-02-29T16:59,2024,2.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,Hawaii,,19.716067,-156.166377,,,2024-03-27T14:42:12,2024,3.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,GF,,,8.36942,-52.29295,,,2024-04-05T15:58,2024,4.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,JP,,,34.570362,138.569503,,,2024-04-21T10:36:04,2024,4.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,PH,Oriental Mindoro,,13.4999,120.955795,,,2024-04-25T13:32:30,2024,4.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,IN,Lakshadweep,,10.558459,72.632411,,,2024-04-20T19:09,2024,4.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,AU,,,-23.125328,113.705535,,,2024-04-29T09:52,2024,4.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.952798,-97.159983,,,2024-05-19T19:12:52,2024,5.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,DZ,Tipaza,,36.626624,2.656647,,,2024-05-06T09:07,2024,5.0,6.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,PF,,,-17.401838,-149.934235,,,2024-05-21T09:25,2024,5.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,28.928155,-80.511567,,,2024-06-08T19:26,2024,6.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,37.122548,-74.586125,,,2024-07-21T12:46:07,2024,7.0,21.0
+BOLD:AAA5421,9877823,,,,,Adult,PRESENT,,CO,Choco,,6.171161,-77.54933,,,2024-07-28,2024,7.0,28.0
+BOLD:AAA5421,9877823,,,,,Adult,PRESENT,,CO,Choco,,6.171161,-77.54933,,,2024-07-28,2024,7.0,28.0
+BOLD:AAA5421,9877823,,,,,Adult,PRESENT,,CO,Choco,,5.686269,-77.60343,,,2024-07-28,2024,7.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,Indeterminate,Adult,PRESENT,,CO,Chocó,,6.17116,-77.54933,,,2024-07-28,2024,7.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,Indeterminate,Adult,PRESENT,,CO,Chocó,,6.17116,-77.54933,,,2024-07-28,2024,7.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,Indeterminate,Adult,PRESENT,,CO,Chocó,,5.68627,-77.60343,,,2024-07-28,2024,7.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,DZ,Algiers,,36.791065,3.051031,,,2024-08-08T09:07,2024,8.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,PT,,,38.564033,-28.148878,,,2024-08-06T11:40:20Z,2024,8.0,6.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,35.508959,-74.792408,,,2024-08-29T12:43:26,2024,8.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,VN,Quảng Ngãi,,15.379307,109.095116,,,2024-08-30T05:50,2024,8.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,VN,Quảng Ngãi,,15.379371,109.095413,,,2024-08-23T06:54,2024,8.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,BR,,,-5.21,-33.18,,,2024-10-04T13:48,2024,10.0,4.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,KI,,,1.979514,-157.496673,,,2024-10-12T08:38:08,2024,10.0,12.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,,,,-29.129294,173.434097,,,2024-10-26T17:42:36,2024,10.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,PH,Camarines Sur,,13.691023,123.674362,,,2024-10-27T19:03,2024,10.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,AE,Dubay,,25.026684,55.082694,,,2024-10-06T11:24:21,2024,10.0,6.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MX,,,22.752262,-109.941201,,,2024-10-05T10:52:35,2024,10.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,TF,,,-17.03642,42.59778,,,2024-11-12T16:34,2024,11.0,12.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,SC,,,-5.20561,54.56616,,,2024-11-19T15:51,2024,11.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,DZ,Algiers,,36.791922,3.051203,,,2024-11-18T11:46,2024,11.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,VU,Shefa,,-16.738574,168.246384,,,2024-11-27T17:28:46,2024,11.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,21.901592,-159.590072,,,2024-11-14T12:52:10,2024,11.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,ID,Sulawesi Tengah,,-1.392706,120.737869,,,2024-12-28T13:20,2024,12.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,DZ,Algiers,,36.791389,3.0511,,,2024-12-31T11:16,2024,12.0,31.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Malpelo,3.999989,-81.6005,150.0,150.0,2024,2024,,
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Malpelo,4.00766,-81.602544,150.0,150.0,2024,2024,,
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,CN,Zhejiang,,28.407316,121.655715,,,2023-01-14T15:36,2023,1.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.840794,-97.063607,,,2023-01-14T16:01,2023,1.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,FJ,Northern,,-16.748032,-179.756562,,,2023-02-01T17:52:12,2023,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,NZ,,,-40.767005,174.853592,,,2023-02-12T14:42:22,2023,2.0,12.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Adult,PRESENT,ASIA,LK,Matara,,5.936804,80.565383,,,2023-03-02T11:08,2023,3.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,19.75745,-156.08397,,,2023-03-28T12:46:01,2023,3.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,MZ,Inhambane,,-21.845912,35.454453,,,2023-03-25T11:36:32,2023,3.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Adult,PRESENT,,NZ,,,-36.44237,175.11289,,,2023-03-25T14:24,2023,3.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,19.635222,-156.234813,,,2023-03-28T12:29,2023,3.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Chocó,,5.631389,-77.389719,,,2023-03-07/2023-03-16,2023,3.0,
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,,NC,,,-22.8045,166.7523,,,2023-03-08,2023,3.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,12.0,DNA Sequence reads,,,PRESENT,,NC,,,-22.8045,166.7523,,,2023-03-08,2023,3.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,26.0,DNA Sequence reads,,,PRESENT,,NC,,,-22.8045,166.7523,,,2023-03-08,2023,3.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,,NC,,,-22.8045,166.7523,,,2023-03-08,2023,3.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,19.577343,-156.01524,,,2023-04-06T13:24:11,2023,4.0,6.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,MX,,,19.3288,-110.792778,,,2023-04-19,2023,4.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,23.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,42.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,8701.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,32.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,164.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,8.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,40.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,4287.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,8.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,172.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,88.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,82.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,235.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,13.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2415.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,622.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,25.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,5.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,MX,,,18.7805,-111.044667,,,2023-04-25,2023,4.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,56.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,22.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,66.0,DNA Sequence reads,,,PRESENT,,MX,,,18.991667,-112.080833,,,2023-04-24,2023,4.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,5.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,BZ,,,16.73718,-87.808627,,,2023-04-16T17:27Z,2023,4.0,16.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,ZA,Eastern Cape,,-34.05612,25.5244,,,2023-05-01T16:32,2023,5.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,19.744992,-156.060608,,,2023-05-13T07:38:45,2023,5.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,PF,Îles du Vent,,-17.434554,-149.89005,,,2023-06-28T16:33:07,2023,6.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.639334,-64.943524,,,2023-07-13,2023,7.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.50833,-64.642164,,,2023-07-13,2023,7.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,14.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.521487,-63.603018,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.460769,-63.611578,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.50833,-64.642164,,,2023-07-13,2023,7.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,11.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.460769,-63.611578,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,11.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.521487,-63.603018,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,23.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.460769,-63.611578,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.423546,-64.612384,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,17.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.521487,-63.603018,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.639334,-64.943524,,,2023-07-13,2023,7.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,19.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.460769,-63.611578,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,4.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.50833,-64.642164,,,2023-07-13,2023,7.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,3.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.423546,-64.612384,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,26.0,DNA Sequence reads,,,PRESENT,SOUTH_AMERICA,AR,,,-42.521487,-63.603018,,,2023-07-11,2023,7.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,21.941028,-159.299418,,,2023-07-25T17:23:35,2023,7.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,ID,Nusa Tenggara Timur,,-8.555287,119.431291,,,2023-08-05T16:53,2023,8.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,PH,,,18.057794,120.37183,,,2023-08-15T12:56:48,2023,8.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,PT,Madeira,,32.7131,-17.185742,,,2023-09-02T14:17:20,2023,9.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,,PRESENT,OCEANIA,AU,Western Australia,,-17.227697,119.355144,,,2023-09-08,2023,9.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,Indeterminate,Adult,PRESENT,,US,,,19.943078,-156.639205,,,2023-09-05T18:15:35,2023,9.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,LK,Matara,,5.885442,80.566516,,,2023-11-13T10:19,2023,11.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,LK,Matara,,5.861044,80.460508,,,2023-11-13T10:26,2023,11.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,PH,Maguindanao,,7.099752,124.022381,,,2023-11-24T12:10:37,2023,11.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,TW,Taiwan,,23.098756,121.380387,,,2023-12-29T13:54:18,2023,12.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,CL,Valparaíso,,-27.13252,-109.27618,,,2023-12-18T17:11:44,2023,12.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-33.6,151.3,,,2022-02-20T22:38Z,2022,2.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,MU,Black River,,-20.454253,57.311853,,,2022-03-05T18:20:33,2022,3.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,KN,,,17.381594,-62.451178,,,2022-03-30T20:36,2022,3.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,SH,Saint Helena,,-15.97598,-5.80451,,,2022-04-13T15:02:58Z,2022,4.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,34.889072,-75.27994,,,2022-04-30T11:41,2022,4.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,CN,Guangxi,,21.05,109.117,,,2022-04-21,2022,4.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,TW,,,22.978228,121.538897,,,2022-05-20T11:05,2022,5.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,TW,Taiwan,,23.082754,121.391218,,,2022-05-20T09:27,2022,5.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,,,,-20.44858,-6.72134,,,2022-06-11T20:03Z,2022,6.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,IN,Tamil Nadu,,13.12512,80.295542,,,2022-08-21,2022,8.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,40.0056,-69.55557,,,2022-08-28T03:29:15,2022,8.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,40.123988,-69.056634,,,2022-08-28T05:31,2022,8.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,JP,Kagoshima,,29.683333,129.516667,,,2022-08-09,2022,8.0,9.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,27.568833,-92.397362,,,2022-09-02T05:24:58,2022,9.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,CV,Sal,,16.596983,-22.907559,,,2022-09-05T11:27:09,2022,9.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,,,,-11.60813,-21.57092,,,2022-10-24T10:18,2022,10.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,,,,Unknown,PRESENT,SOUTH_AMERICA,SX,St. Maarten,,18.031928,-63.087967,,,2022-10-30,2022,10.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Egg,PRESENT,SOUTH_AMERICA,BQ,Bonaire,,12.125713,-68.288124,,,2022-10-17,2022,10.0,17.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,US,,,26.202812,-94.898215,,,2022-11-11T17:41:35,2022,11.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,,,,33.770405,-69.767013,,,2022-11-14T15:25:13,2022,11.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,HT,Sud,,18.2572,-74.100688,,,2022-11-23T10:52:49,2022,11.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,26.257893,-80.05636,,,2022-12-04T09:21,2022,12.0,4.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,9230.0,reads,,,PRESENT,,AU,Western Australia,,-20.83906,111.59897,,,2022-12-02,2022,12.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,6605.0,reads,,,PRESENT,,AU,Western Australia,,-20.8752,111.44704,,,2022-12-01,2022,12.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2006.0,reads,,,PRESENT,,AU,Western Australia,,-20.97094,111.34987,,,2022-12-01,2022,12.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2071.0,reads,,,PRESENT,,AU,Western Australia,,-22.99232,112.47763,,,2022-12-08,2022,12.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,177.0,reads,,,PRESENT,,AU,Western Australia,,-23.13834,112.81376,,,2022-12-08,2022,12.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,111.0,reads,,,PRESENT,,AU,Western Australia,,-23.13834,112.81376,,,2022-12-08,2022,12.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,2607.0,reads,,,PRESENT,,AU,Western Australia,,-23.13834,112.81376,,,2022-12-08,2022,12.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,8533.0,reads,,,PRESENT,,AU,Western Australia,,-23.13834,112.81376,,,2022-12-08,2022,12.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-44.683333,-75.333333,200.0,0.0,2021-01-02,2021,1.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,6.0,KILOGRAMO,,,PRESENT,,CL,,,-44.966667,-75.416667,230.0,30.0,2021-01-02,2021,1.0,2.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,NZ,,,-35.741845,175.15587,,,2021-02-13T11:02,2021,2.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,ZA,,,-34.18076,18.51052,,,2021-02-21T14:13,2021,2.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.9,-72.666667,,,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.9,-72.666667,,,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.9,-72.666667,,,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-34.9,-72.666667,,,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.9,-72.666667,,,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,80.0,KILOGRAMO,,,PRESENT,,CL,7,,-34.9,-72.666667,15.0,0.0,2021-03-15,2021,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,IN,,,10.56,72.64,,,2021-04-11,2021,4.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,SOUTH_AMERICA,CL,Valparaíso,,-32.917788,-71.510931,,,2021-04-25T10:16,2021,4.0,25.0
+BOLD:AAA5421,9877823,,,,,,PRESENT,ASIA,IN,,,10.5593,72.6358,,,2021-04-11,2021,4.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-42.55,-74.333333,400.0,0.0,2021-04,2021,4.0,
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,12.0,KILOGRAMO,,,PRESENT,,CL,,,-42.55,-74.583333,455.0,55.0,2021-04-18T18:55,2021,4.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,ID,Lampung,,-5.318201,105.198376,,,2021-05-12,2021,5.0,12.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,7,,-34.916667,-72.866667,18.0,0.0,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,7,,-34.85,-72.8,18.0,0.0,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-34.716667,-72.6,,,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,100.0,KILOGRAMO,,,PRESENT,,CL,7,,-34.85,-72.8,18.0,0.0,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,200.0,KILOGRAMO,,,PRESENT,,CL,7,,-34.916667,-72.866667,18.0,0.0,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,200.0,KILOGRAMO,,,PRESENT,,CL,7,,-34.716667,-72.6,18.0,0.0,2021-05-03,2021,5.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,MV,,,4.179908,73.5097,,,2021-06-11T08:18:42,2021,6.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,LK,Gampaha,,7.203172,79.829033,,,2021-07-05T05:18:25,2021,7.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,US,Hawaii,,22.156581,-159.263855,,,2021-08-15T07:40:10,2021,8.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,ASIA,MV,,,3.48326,72.8028,0.0,0.0,2021-10-11T09:23Z,2021,10.0,11.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-35.383333,-73.083333,,,2021-10-20,2021,10.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-35.383333,-73.083333,,,2021-10-20,2021,10.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-35.383333,-73.083333,,,2021-10-20,2021,10.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,120.0,KILOGRAMO,,,PRESENT,,CL,7,,-35.383333,-73.083333,20.0,0.0,2021-10-20,2021,10.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,,,,5.66979,-42.3534,,,2021-11-26T22:18,2021,11.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,32.654043,-79.940496,,,2020-01-26T13:04:44,2020,1.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,300.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-19,2020,1.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,300.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-20,2020,1.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,1000.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-25,2020,1.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,400.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-26,2020,1.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,300.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-27,2020,1.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,300.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5155,-43.4287,,,2020-01-15,2020,1.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,300.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.5167,-43.4333,,,2020-01-21,2020,1.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Mtwara,,-10.264825,40.185225,,,2020-02-29T06:30Z,2020,2.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Mtwara,,-10.277191,40.145753,,,2020-02-27T06:35Z,2020,2.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,OCEANIA,AU,Queensland,,-26.681821,153.11903,,,2020-02-01,2020,2.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,AU,,,-27.921122,153.734803,,,2020-02-26T08:00:47,2020,2.0,26.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Adult,PRESENT,ASIA,LK,Gampaha,,7.203076,79.829305,,,2020-02-03T07:01:54,2020,2.0,3.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,PG,,,-9.630843,147.238349,,,2020-03-25T11:33Z,2020,3.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.255157,39.77769,,,2020-03-13T18:45Z,2020,3.0,13.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.254705,39.775396,,,2020-03-17T01:00Z,2020,3.0,17.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.254632,39.776362,,,2020-03-18T01:30Z,2020,3.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.254065,39.777006,,,2020-03-19T01:45Z,2020,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Mtwara,,-10.279021,40.188611,,,2020-03-21T06:40Z,2020,3.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Tanga,,-4.777431,39.155428,,,2020-03-18T07:35Z,2020,3.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.254089,39.77694,,,2020-03-22T01:00Z,2020,3.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.250094,39.774752,,,2020-03-23T01:00Z,2020,3.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.250094,39.774752,,,2020-03-27T01:00Z,2020,3.0,27.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Pemba,,-5.250094,39.774752,,,2020-03-29T18:00Z,2020,3.0,29.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,10.0,número-de-indivíduos,,,PRESENT,,BR,São Paulo,,-25.54116,-43.442,,,2020-03-08,2020,3.0,8.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Mtwara,,-10.269555,40.163028,,,2020-05-30T06:46Z,2020,5.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Na,,-9.742701,39.713764,,,2020-05-28T06:13Z,2020,5.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Na,,-9.744188,39.714081,,,2020-05-17T06:30Z,2020,5.0,17.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Mtwara,,-10.269555,40.163028,,,2020-06-01T06:40Z,2020,6.0,1.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Lindi,,-9.997057,39.712268,,,2020-06-19T06:05Z,2020,6.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,TZ,Na,,-9.742878,39.713922,,,2020-06-05T06:45Z,2020,6.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,SC,,,-9.367347,46.234884,,,2020-06-17,2020,6.0,17.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,1.0,12.0,Peso en kg,,,PRESENT,,CL,,,-22.0,-71.483333,,,2020-08-24T17:50,2020,8.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,12.0,Peso en kg,Female,,PRESENT,,CL,,,-22.0,-71.483333,,,2020-08-24T17:50,2020,8.0,24.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MX,,,31.366745,-116.859658,,,2020-10-05T10:05:33,2020,10.0,5.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,,,-34.733333,-72.766667,,,2020-10-28,2020,10.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.733333,-72.766667,,,2020-10-28,2020,10.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,42.0,KILOGRAMO,,,PRESENT,,CL,7,,-34.733333,-72.766667,20.0,0.0,2020-10-28,2020,10.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,CL,,,-34.733333,-72.766667,,,2020-10-28,2020,10.0,28.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,MX,,,25.984049,-94.331401,,,2020-11-14T10:39:14,2020,11.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,7,,-35.9425,-73.199167,3.0,0.0,2020-11-20T11:30,2020,11.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,ABSENT,,CL,7,,-35.969722,-73.223333,1.0,0.0,2020-11-20,2020,11.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,15.0,KILOGRAMO,,,PRESENT,,CL,7,,-35.9425,-73.199167,3.0,0.0,2020-11-20T11:30,2020,11.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,40.0,KILOGRAMO,,,PRESENT,,CL,7,,-35.969722,-73.223333,1.0,0.0,2020-11-20,2020,11.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,AFRICA,ZA,KwaZulu-Natal,,-30.49439,30.638525,,,2020-12-22,2020,12.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,Juvenile,PRESENT,OCEANIA,NZ,Northland,,-35.192387,174.284567,,,2019-02-10T10:37,2019,2.0,10.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,,,,,,PRESENT,,NZ,,,-35.984585,175.088407,,,2019-02-14T12:50,2019,2.0,14.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-83.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,2.0,-79.0,,,2019-03-15,2019,3.0,15.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-78.0,,,2019-03-25,2019,3.0,25.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,2.0,-80.0,,,2019-03-16,2019,3.0,16.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-82.0,,,2019-03-22,2019,3.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-84.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-81.0,,,2019-03-23,2019,3.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-81.0,,,2019-03-23,2019,3.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-81.0,,,2019-03-23,2019,3.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.5,-77.5,,,2019-03-30,2019,3.0,30.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,2.0,-84.0,,,2019-03-16,2019,3.0,16.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-80.0,,,2019-03-31,2019,3.0,31.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-82.0,,,2019-03-22,2019,3.0,22.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,5.0,-83.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-79.0,,,2019-03-31,2019,3.0,31.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-82.0,,,2019-03-20,2019,3.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-83.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,2.0,-84.0,,,2019-03-16,2019,3.0,16.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-84.0,,,2019-03-18,2019,3.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-82.0,,,2019-03-21,2019,3.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-82.0,,,2019-03-20,2019,3.0,20.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-83.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-84.0,,,2019-03-18,2019,3.0,18.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-81.0,,,2019-03-23,2019,3.0,23.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,4.0,-83.0,,,2019-03-19,2019,3.0,19.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.0,-82.0,,,2019-03-21,2019,3.0,21.0
+"Katsuwonus pelamis (Linnaeus, 1758)",2374191,0.0,0.0,individuos 10m2,,,ABSENT,,CO,,,3.5,-77.5,,,2019-03-30,2019,3.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,Zhejiang,,30.366688,122.274894,,,2025-01-05T11:50:57,2025,1.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,Zhejiang,,29.822387,122.337021,,,2025-05-17T15:24:22,2025,5.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,Shandong,,36.181158,120.277306,,,2025-09-07T09:50:27,2025,9.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,Shandong,,36.181064,120.277314,,,2025-09-07T10:04:19,2025,9.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,TW,Taipei,,25.10776,121.510359,,,2025-12-10T08:28:54,2025,12.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,Adult,PRESENT,ASIA,TH,Chanthaburi,,12.619717,102.094189,,,2024-07-01T16:33:04,2024,7.0,1.0
+"Pampus cinereus (Bloch, 1795)",2397674,,,,,,PRESENT,ASIA,ID,Jawa Barat,,-7.713099,108.500387,,,2024-11-17T07:55:52,2024,11.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,9.0,DNA Sequence reads,,,PRESENT,ASIA,BD,,,21.756639,89.222982,,,2023-01-09,2023,1.0,9.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,Adult,PRESENT,ASIA,TH,Nonthaburi,,13.878297,100.406614,,,2023-04-21T10:42:17,2023,4.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,Shandong,,36.056671,120.369789,,,2023-10-23T08:30:59,2023,10.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,7.0,,,,Egg,PRESENT,,TW,,,24.461555,120.118873,,,2022-03-01,2022,3.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,Indeterminate,Adult,PRESENT,ASIA,ID,Jawa Barat,,-7.702888,108.657706,,,2022-07-17T12:40,2022,7.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,6.0,DNA Sequence reads,,,PRESENT,EUROPE,NL,,,52.9732,5.000163,,,2022-09-26,2022,9.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,1.0,,,,Egg,PRESENT,,TW,,,24.101417,120.305817,,,2021-02-25,2021,2.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,4.0,,,,Egg,PRESENT,,TW,,,24.18935,119.972267,,,2021-02-01,2021,2.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,1.0,,,,,PRESENT,,TW,,,24.046483,120.281217,,,2020-09-15,2020,9.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,Kerala,,8.879189,76.578101,,,2020-10-16T12:53:52,2020,10.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,TW,Tainan,,23.189639,120.085841,,,2020-10-10T13:37,2020,10.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,TW,Tainan,,23.189653,120.085889,,,2020-11-11T13:44:40,2020,11.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,Karnataka,,14.823343,74.125696,,,2019-04-02T16:32,2019,4.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,36.881211,126.736153,,,2019-05-22,2019,5.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,36.881211,126.736153,,,2019-05-22,2019,5.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,Goa,,15.589296,73.811212,,,2019-07-19T08:57,2019,7.0,19.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,RU,Sakhalin,,46.698818,142.516854,,,2019-07-31T14:51Z,2019,7.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.676506,127.783047,,,2019-10-22,2019,10.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IR,,,27.19,56.28,,,2019-12-01,2019,12.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,21.37,91.65,,,2018-01-07,2018,1.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,35.1807,129.291183,,,2018-04-16,2018,4.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,21.74,89.93,,,2018-05-25,2018,5.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,21.74,89.93,,,2018-05-25,2018,5.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,,,10.92,79.87,,,2018-12-15,2018,12.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.51275,126.528278,,,2017-11-01,2017,11.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangbuk-do,,36.094219,129.486556,,,2017-12-30,2017,12.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangbuk-do,,36.094219,129.486556,,,2017-12-30,2017,12.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangbuk-do,,36.094219,129.486556,,,2017-12-30,2017,12.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangbuk-do,,36.094219,129.486556,,,2017-12-30,2017,12.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,Adult,PRESENT,ASIA,IN,Gujarat,,20.9,70.37,,,2016-01-08,2016,1.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,36.157836,126.500108,,,2016-08-26,2016,8.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,36.157836,126.500108,,,2016-08-26,2016,8.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.118122,126.174331,,,2016-10-11,2016,10.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,36.028922,126.559772,,,2016-11-16,2016,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.937547,126.533128,,,2016-11-01,2016,11.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.937547,126.533128,,,2016-11-01,2016,11.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.937547,126.533128,,,2016-11-01,2016,11.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.732203,125.409289,,,2015-02-10,2015,2.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.732203,125.409289,,,2015-02-10,2015,2.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.732203,125.409289,,,2015-02-10,2015,2.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.732203,125.409289,,,2015-02-10,2015,2.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,4.98,110.18,,,2015-03-15,2015,3.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,4.98,110.18,,,2015-03-15,2015,3.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,AE,Abu Dhabi,,24.514417,54.375083,,,2015-04-27,2015,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,20.82,90.8,,,2015-04-10,2015,4.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,22.25,116.75,,,2015-09-24,2015,9.0,24.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.511667,125.802778,,,2015-09-23,2015,9.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,20.93,91.43,,,2015-10-22,2015,10.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,BD,,,21.25,91.59,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.787347,126.38935,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.787347,126.38935,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.787347,126.38935,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.787347,126.38935,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.787347,126.38935,,,2015-10-20,2015,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,Adult,PRESENT,ASIA,IN,Gujarat,,20.9,70.37,,,2015-11-18,2015,11.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,,,18.97,72.82,,,2014-01-13,2014,1.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,,,18.97,72.82,,,2014-01-13,2014,1.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.932883,128.031714,,,2014-05-26,2014,5.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.932883,128.031714,,,2014-06-18,2014,6.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.976106,126.478497,,,2014-06-06,2014,6.0,6.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.25,109.08,,,2014-09-03,2014,9.0,3.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.518,126.59,,,2014-09-14,2014,9.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.518003,126.590028,,,2014-09-14,2014,9.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.518006,126.590056,,,2014-09-14,2014,9.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.518011,126.590111,,,2014-09-14,2014,9.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.518008,126.590083,,,2014-09-14,2014,9.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.273892,126.190808,,,2014-10-07,2014,10.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.564722,125.739903,,,2014-10-07,2014,10.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,36.101278,126.478,,,2014-10-26,2014,10.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.307172,126.245506,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.307169,126.245503,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.307178,126.245511,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.307175,126.245508,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.307167,126.2455,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.648542,126.249903,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.648528,126.249889,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollabuk-do,,35.648556,126.249917,,,2014-10-25,2014,10.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollabuk-do,,35.547456,126.188397,,,2014-10-15,2014,10.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.581556,127.91915,,,2014-10-30,2014,10.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.227089,127.353983,,,2014-10-30,2014,10.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.227089,127.353983,,,2014-10-30,2014,10.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.521556,128.3175,,,2014-10-30,2014,10.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.356411,128.8636,,,2014-10-31,2014,10.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.356411,128.8636,,,2014-10-31,2014,10.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.356411,128.8636,,,2014-10-31,2014,10.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,,,29.97,113.68,,,2013-07-13,2013,7.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,CN,,,29.97,113.68,,,2013-07-13,2013,7.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KW,,,29.351667,48.2526,,,2013-11-21,2013,11.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,Indeterminate,,PRESENT,,JP,,,30.241944,126.274722,,,2013-11-27,2013,11.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.27,108.23,,,2013-11-14,2013,11.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.27,108.23,,,2013-11-14,2013,11.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.27,108.23,,,2013-11-14,2013,11.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.27,108.23,,,2013-11-14,2013,11.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,CN,,,21.27,108.23,,,2013-11-14,2013,11.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KW,,,29.47435,48.042867,,,2013-12-22,2013,12.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,IN,Gujarat,,23.2333,68.5764,4.7,0.0,2013-12-30,2013,12.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.650025,127.674722,,,2012-01-10,2012,1.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.8,129.166667,,,2012-01-18,2012,1.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.75,129.016667,,,2012-01-30,2012,1.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangbuk-do,,36.118628,129.666258,,,2012-02-21,2012,2.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,34.9535,128.8886,,,2012-02-03,2012,2.0,3.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.766667,129.0,,,2012-02-22,2012,2.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.766667,129.0,,,2012-02-22,2012,2.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.75,129.016667,,,2012-02-22,2012,2.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.75,129.016667,,,2012-02-22,2012,2.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.8,129.166667,,,2012-02-20,2012,2.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.9535,128.8886,,,2012-02-11,2012,2.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,35.016667,128.95,,,2012-02-11,2012,2.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.695,125.8065,,,2012-03-21,2012,3.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.158833,125.758333,,,2012-03-21,2012,3.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.304833,125.297333,,,2012-03-21,2012,3.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.793667,125.2365,,,2012-03-22,2012,3.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2012-03-27,2012,3.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.790667,128.782,,,2012-04-13,2012,4.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.302,127.712167,,,2012-04-14,2012,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.819333,127.256,,,2012-04-15,2012,4.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.186667,129.298833,,,2012-04-12,2012,4.0,12.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.769,125.541667,,,2012-04-27,2012,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.847667,128.254167,,,2012-04-15,2012,4.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.847667,128.254167,,,2012-04-15,2012,4.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.76,125.326333,,,2012-04-27,2012,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.577,127.922333,,,2012-04-14,2012,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.092333,126.932,,,2012-04-16,2012,4.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.612667,128.1755,,,2012-04-14,2012,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.391,128.537167,,,2012-04-13,2012,4.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.196167,127.333,,,2012-04-16,2012,4.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.259833,128.377167,,,2012-04-13,2012,4.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2012-04-27,2012,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.1465,125.610333,,,2012-05-03,2012,5.0,3.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.852167,128.1325,,,2012-05-30,2012,5.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.863,128.161317,,,2012-05-30,2012,5.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.347867,126.162783,,,2012-05-14,2012,5.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,36.307167,125.251667,,,2012-05-02,2012,5.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.5562,126.70045,,,2012-05-17,2012,5.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.298117,126.774994,,,2012-05-16,2012,5.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.220817,126.31185,,,2012-05-18,2012,5.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2012-05-23,2012,5.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2012-06-20,2012,6.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.727544,126.517553,,,2012-07-17,2012,7.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2012-07-10,2012,7.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Busan,,35.016667,129.083333,,,2012-08-25,2012,8.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Busan,,35.033333,129.0,,,2012-08-25,2012,8.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangbuk-do,,36.220061,129.599431,,,2012-08-26,2012,8.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.21795,126.313267,,,2011-03-15,2011,3.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,32.70295,125.396833,,,2011-03-30,2011,3.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,32.739633,126.26725,,,2011-03-28,2011,3.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.797733,127.238833,,,2011-03-18,2011,3.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.797733,127.238833,,,2011-03-18,2011,3.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,32.744717,124.957683,,,2011-03-30,2011,3.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,32.479317,125.751317,,,2011-03-29,2011,3.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,32.3163,126.3067,,,2011-03-28,2011,3.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,32.3163,126.3067,,,2011-03-28,2011,3.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.203517,125.2568,,,2011-03-30,2011,3.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.228167,125.7819,,,2011-03-31,2011,3.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.232683,126.466167,,,2011-04-28,2011,4.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.566283,126.687125,,,2011-04-12,2011,4.0,12.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.5968,124.221533,,,2011-04-05,2011,4.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,35.310933,124.75405,,,2011-04-15,2011,4.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.732917,125.807167,,,2011-04-04,2011,4.0,4.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.250017,125.20615,,,2011-04-06,2011,4.0,6.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.342867,124.68845,,,2011-04-05,2011,4.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.312667,127.746333,,,2011-04-29,2011,4.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,34.819167,128.845333,,,2011-04-28,2011,4.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,34.819167,128.845333,,,2011-04-28,2011,4.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,34.962833,129.169833,,,2011-04-28,2011,4.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,35.176,129.292833,,,2011-04-27,2011,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.731833,126.794,,,2011-04-27,2011,4.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.571667,127.915167,,,2011-04-29,2011,4.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.606833,128.166833,,,2011-04-29,2011,4.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.0882,126.018217,,,2011-04-07,2011,4.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.649,124.871933,,,2011-04-14,2011,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.321667,124.684833,,,2011-04-06,2011,4.0,6.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.291283,126.679167,,,2011-04-13,2011,4.0,13.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-04-14,2011,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.676733,124.438333,,,2011-04-14,2011,4.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.21795,126.313267,,,2011-05-16,2011,5.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.609722,125.714733,,,2011-05-05,2011,5.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.309983,128.557317,,,2011-05-05,2011,5.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Gyeongsangnam-do,,34.207033,128.264117,,,2011-05-05,2011,5.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.091833,126.882,,,2011-05-02,2011,5.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,36.604522,126.420594,,,2011-05-05,2011,5.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.731833,126.794,,,2011-05-02,2011,5.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.1919,127.32315,,,2011-05-02,2011,5.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.766667,127.511833,,,2011-05-18,2011,5.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.762833,127.515167,,,2011-05-18,2011,5.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,35.991667,126.611333,,,2011-05-21,2011,5.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.404722,126.233056,,,2011-05-12,2011,5.0,12.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.404722,126.233056,,,2011-05-11,2011,5.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.566283,126.687125,,,2011-06-08,2011,6.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Busan,,35.043775,129.008664,,,2011-06-27,2011,6.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Busan,,35.001167,129.057822,,,2011-06-30,2011,6.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Busan,,35.041489,128.984406,,,2011-06-16,2011,6.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.661944,125.693747,,,2011-06-04,2011,6.0,4.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.797683,127.8055,,,2011-06-28,2011,6.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-06-09,2011,6.0,9.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.291283,126.679167,,,2011-06-09,2011,6.0,9.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeonggi-do,,37.665,126.5361,,,2011-06-18,2011,6.0,18.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.398467,126.74025,,,2011-06-05,2011,6.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.398467,126.74025,,,2011-06-20,2011,6.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeonggi-do,,37.665,126.5361,,,2011-06-23,2011,6.0,23.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.412222,126.3975,,,2011-06-08,2011,6.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.412222,126.3975,,,2011-06-11,2011,6.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.412222,126.3975,,,2011-06-20,2011,6.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.21795,126.313267,,,2011-07-26,2011,7.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.465761,126.94595,,,2011-07-06,2011,7.0,6.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.661944,125.693747,,,2011-07-05,2011,7.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-07-20,2011,7.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-07-20,2011,7.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-07-20,2011,7.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.690278,127.271667,,,2011-07-10,2011,7.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.998308,128.853969,,,2011-07-29,2011,7.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.998308,128.853969,,,2011-07-29,2011,7.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.001167,129.057822,,,2011-07-28,2011,7.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,35.033789,128.993944,,,2011-07-29,2011,7.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.001167,129.057822,,,2011-07-28,2011,7.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.001167,129.057822,,,2011-07-28,2011,7.0,28.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.284283,127.66825,,,2011-07-02,2011,7.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-07-11,2011,7.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.566283,126.687125,,,2011-08-10,2011,8.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-08-30,2011,8.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-08-30,2011,8.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-08-30,2011,8.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-08-15,2011,8.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.675186,127.821219,,,2011-08-15,2011,8.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,35.206667,129.220333,,,2011-08-27,2011,8.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.75,129.016667,,,2011-08-21,2011,8.0,21.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.685833,127.9725,,,2011-08-30,2011,8.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.716667,128.310833,,,2011-08-20,2011,8.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.698333,127.961111,,,2011-08-31,2011,8.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.291283,126.679167,,,2011-08-11,2011,8.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.556167,127.0695,,,2011-08-24,2011,8.0,24.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.603667,127.071167,,,2011-08-24,2011,8.0,24.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Chungcheongnam-do,,35.991667,126.611333,,,2011-08-11,2011,8.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.3755,126.1085,,,2011-08-08,2011,8.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.298333,126.119,,,2011-08-08,2011,8.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-08-05,2011,8.0,5.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.21795,126.313267,,,2011-09-08,2011,9.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,37.761225,126.588494,,,2011-09-16,2011,9.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,37.547397,126.368992,,,2011-09-15,2011,9.0,15.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.573611,126.474444,,,2011-09-17,2011,9.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.78305,128.437758,,,2011-09-01,2011,9.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.574167,126.520556,,,2011-09-17,2011,9.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.766667,127.511833,,,2011-09-16,2011,9.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.775333,127.487333,,,2011-09-16,2011,9.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-09-07,2011,9.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,34.743833,127.521167,,,2011-09-16,2011,9.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.566283,126.687125,,,2011-10-06,2011,10.0,6.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeonggi-do,,37.968889,124.741586,,,2011-10-12,2011,10.0,12.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.321167,127.7627,,,2011-10-19,2011,10.0,19.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.090933,126.914467,,,2011-10-20,2011,10.0,20.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.751667,125.751667,,,2011-10-01,2011,10.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.751667,125.751667,,,2011-10-01,2011,10.0,1.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,35.009,128.604167,,,2011-10-31,2011,10.0,31.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-10-11,2011,10.0,11.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.291283,126.679167,,,2011-10-07,2011,10.0,7.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,35.25,126.25,,,2011-10-27,2011,10.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,35.75,126.25,,,2011-10-26,2011,10.0,26.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,36.75,125.75,,,2011-10-22,2011,10.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollabuk-do,,35.447492,126.316114,,,2011-11-04,2011,11.0,4.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Jeollanam-do,,35.412697,126.423592,,,2011-11-02,2011,11.0,2.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,32.4,125.733333,,,2011-11-22,2011,11.0,22.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.258333,127.343167,,,2011-11-25,2011,11.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,33.341333,124.683667,,,2011-11-29,2011,11.0,29.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,,,34.606833,128.166833,,,2011-11-08,2011,11.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,,,34.1935,125.29,,,2011-11-10,2011,11.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.716389,128.326667,,,2011-11-16,2011,11.0,16.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.589722,126.465556,,,2011-11-25,2011,11.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.991667,128.539167,,,2011-11-17,2011,11.0,17.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeju-do,,33.552222,126.193611,,,2011-11-25,2011,11.0,25.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,,KR,Jeollanam-do,,34.5405,127.866833,,,2011-12-08,2011,12.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.6495,125.713783,,,2010-05-24,2010,5.0,24.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,TW,,,22.09,120.71,,,2010-07-10,2010,7.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,TW,,,22.0595,120.674,,,2010-07-10,2010,7.0,10.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,ID,,,-7.73,109.02,,,2010-08-08,2010,8.0,8.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.913883,124.746533,,,2009-05-30,2009,5.0,30.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,1.0,,,,,PRESENT,,MY,,,4.3967,103.6497,,,2009-05-14,2009,5.0,14.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.6495,125.713783,,,2009-06-27,2009,6.0,27.0
+"Pampus argenteus (Euphrasen, 1788)",2397682,,,,,,PRESENT,ASIA,KR,Incheon,,37.6495,125.713783,,,2009-06-27,2009,6.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Kerala,,9.545512,76.362436,,,2025-01-10T16:31:56,2025,1.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,SG,East,,1.346429,103.856472,,,2025-01-18T13:50,2025,1.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,EG,Janub Sina',,27.652751,34.3744,,,2025-01-14T12:35,2025,1.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,EG,Janub Sina',,27.684468,34.370573,,,2025-01-11T12:55,2025,1.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.000751,34.72301,,,2025-01-02,2025,1.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.790454,34.926743,,,2025-01-04,2025,1.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.825866,35.015176,,,2025-01-15,2025,1.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.132769,34.764095,,,2025-01-02,2025,1.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,31.852388,34.654536,,,2025-01-22,2025,1.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,LK,Galle,,6.267964,80.183206,,,2025-02-05T05:16:18,2025,2.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Maharashtra,,15.661231,73.642763,,,2025-02-02T11:10:13,2025,2.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Rayong,,12.634241,101.554313,,,2025-02-01T10:07:43,2025,2.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,LK,Kalutara,,6.425451,79.962612,,,2025-02-04T15:05:17,2025,2.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,PH,Palawan,,9.685978,118.701388,,,2025-02-06T18:25:57,2025,2.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Karnataka,,12.870771,74.850072,,,2025-02-23T08:08:49,2025,2.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.676106,147.440198,,,2025-03-08T13:05,2025,3.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Koror,,7.006922,134.267017,,,2025-03-02T13:01:46,2025,3.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PW,,,7.35922,134.316616,,,2025-03-04T11:50:56,2025,3.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Koror,,7.107541,134.342226,,,2025-03-02T12:55:59,2025,3.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Koror,,7.089138,134.376586,,,2025-03-03T11:55:46,2025,3.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,EG,Janub Sina',,27.662741,34.267516,,,2025-03-30T12:07:39,2025,3.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.806197,34.939293,,,2025-03-03,2025,3.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.833068,35.032645,,,2025-03-03,2025,3.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.843427,34.951936,,,2025-03-03,2025,3.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-14.869601,145.795002,,,2025-04-12T15:44,2025,4.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TH,Satun,,6.526299,99.320382,,,2025-04-16T19:00:04,2025,4.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TH,Prachuap Khiri Khan,,12.555022,99.984419,,,2025-04-16T17:35:30,2025,4.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,AE,Dubay,,25.200104,55.282546,,,2025-04-06T17:39:21,2025,4.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Jawa Tengah,,-7.530713,110.642617,,,2025-04-07T15:50,2025,4.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Kerala,,9.790855,76.250898,,,2025-04-26T08:27:20,2025,4.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,AE,Sharjah,,25.223119,55.28663,,,2025-04-24T12:15:54,2025,4.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,LK,Gampaha,,7.369199,79.842836,,,2025-04-25T06:03,2025,4.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,LK,Gampaha,,7.298658,79.948959,,,2025-04-25T14:00,2025,4.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,LK,Gampaha,,7.276013,79.805618,,,2025-04-25T14:00,2025,4.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.410423,34.860443,,,2025-04-20,2025,4.0,20.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,ID,Papua Barat,,-3.883923,134.029854,,,2025-04-14T08:19,2025,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,West,,1.308239,103.76484,,,2025-04-27T12:05:36,2025,4.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Karnataka,,13.338481,74.722904,,,2025-05-08T06:17:25,2025,5.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.831585,35.042633,,,2025-05-10,2025,5.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-16.980633,146.321629,,,2025-05-20T13:22,2025,5.0,20.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-16.280716,145.905118,,,2025-05-17T21:27:25,2025,5.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Puducherry,,11.879691,79.824194,,,2025-05-16T11:33,2025,5.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TR,Mugla,,36.65599,28.238995,,,2025-06-27T22:55:03,2025,6.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PH,Oriental Mindoro,,13.546835,120.837446,,,2025-06-26T10:55,2025,6.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Nord,,-20.691155,165.105321,,,2025-06-12T18:27:21,2025,6.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-19.727358,148.358143,,,2025-07-04,2025,7.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,CN,Guangdong,,22.559574,114.020915,,,2025-07-27T11:36:54,2025,7.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-23.44143,151.910751,,,2025-07-05T16:58:43,2025,7.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-27.292138,153.037322,,,2025-07-04T18:56Z,2025,7.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Tamil Nadu,,12.885181,80.382848,,,2025-08-15T07:24,2025,8.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MY,,,5.795851,99.843182,,,2025-08-14T11:40:25,2025,8.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MY,,,5.621379,99.88871,,,2025-08-14T11:51:17,2025,8.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-20.217694,164.773806,,,2025-08-03T17:44,2025,8.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MY,,,5.793884,99.539337,,,2025-08-14T11:52:39,2025,8.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.704465,177.2841,,,2025-08-26T15:18:58,2025,8.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.430366,34.869096,,,2025-08-23,2025,8.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Western Australia,,-23.141252,113.774301,,,2025-09-02T12:23:51,2025,9.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Koror,,7.06988,134.324351,,,2025-09-03T10:28,2025,9.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,CN,,,22.310093,114.849329,,,2025-09-06T08:02:34,2025,9.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,VN,Khánh Hòa,,12.297999,109.365693,,,2025-09-05,2025,9.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,Indeterminate,Adult,PRESENT,OCEANIA,AU,Queensland,,-23.435702,151.903371,,,2025-09-25T18:58:44,2025,9.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,FJ,Northern,,-17.064561,179.190501,,,2025-09-23T07:46,2025,9.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Northern,,-16.638232,179.864057,,,2025-09-29T08:37,2025,9.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PG,Madang,,-5.321933,145.87961,,,2025-10-31T15:38:16,2025,10.0,31.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IL,HaZafon,,33.143842,35.150474,,,2025-10-26T14:48,2025,10.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,MY,Selangor,,3.211642,101.239597,,,2025-10-26T13:49,2025,10.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Northern,,-17.114969,179.075778,,,2025-10-06T11:50,2025,10.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.308996,178.474738,,,2025-10-12T11:35,2025,10.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,FJ,Western,,-17.392859,178.51324,,,2025-10-12T11:45,2025,10.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.800071,177.381436,,,2025-11-07T16:15:25,2025,11.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PG,,,-9.004545,149.567786,,,2025-11-22T12:42,2025,11.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.356857,178.003128,,,2025-11-22T14:47,2025,11.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PG,,,-8.940442,149.587605,,,2025-11-26T09:45,2025,11.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,ID,Papua Barat,,-0.542737,130.758417,,,2025-12-02T15:26:05,2025,12.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,FJ,Northern,,-17.186974,179.031794,,,2025-12-08T10:17,2025,12.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TW,Taiwan,,24.591871,121.892877,,,2025-12-18T16:16,2025,12.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,TH,Satun,,6.409528,99.234011,,,2025-12-27T17:09:19,2025,12.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Kerala,,8.987037,76.522063,,,2024-01-05T15:34:22,2024,1.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,AU,,,-17.51158,146.762598,,,2024-01-09T10:05:10,2024,1.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,KH,Kaôh Kong,,10.720888,103.205539,,,2024-01-09T10:21:05,2024,1.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,TW,,,23.636706,121.611003,,,2024-01-29T11:13,2024,1.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,VN,Khanh Hoa Province,,10.936,108.287,,,2024-01-27,2024,1.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.141545,34.783099,,,2024-01-16,2024,1.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.202525,34.794707,,,2024-01-16,2024,1.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.028733,34.708647,,,2024-01-16,2024,1.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-20.246,148.760623,,,2024-01-09T07:12,2024,1.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Tamil Nadu,,12.960287,80.3712,,,2024-02-11T07:00:33,2024,2.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TH,Phangnga,,8.771974,98.283547,,,2024-02-12T04:49,2024,2.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TW,,,23.789573,121.623615,,,2024-02-02T09:33,2024,2.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.001072,34.719696,,,2024-02-07,2024,2.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.240656,34.785103,,,2024-02-26,2024,2.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,31.758305,34.595754,,,2024-02-07,2024,2.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,31.699436,34.561382,,,2024-02-07,2024,2.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.216362,34.807204,,,2024-02-10,2024,2.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,ID,Papua Barat,,-0.697181,130.44601,,,2024-03-11,2024,3.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,ID,Papua Barat,,-0.626343,130.428636,,,2024-03-11,2024,3.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.793177,34.956797,,,2024-03-10,2024,3.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.752615,34.954818,,,2024-03-30,2024,3.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.807797,34.963259,,,2024-03-10,2024,3.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.154566,34.791074,,,2024-03-13,2024,3.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.862597,34.975269,,,2024-03-05,2024,3.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Nusa Tenggara Timur,,-8.26373,124.598122,,,2024-04-24T16:52,2024,4.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Chanthaburi,,12.682513,102.193023,,,2024-04-27T05:47:29,2024,4.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,New South Wales,,-29.926729,153.388764,,,2024-04-16T10:16,2024,4.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Kerala,,8.881577,76.452289,,,2024-04-17T12:55:14,2024,4.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,PH,Oriental Mindoro,,13.404027,120.930268,,,2024-04-25T13:31:02,2024,4.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.264495,34.823732,,,2024-04-24,2024,4.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.537886,34.892521,,,2024-04-15,2024,4.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,MG,Antsiranana,,-13.279996,48.305816,,,2024-04-22T16:02,2024,4.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MG,,,-13.153531,48.483369,,,2024-04-29T14:15,2024,4.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Western Australia,,-21.868621,114.15806,,,2024-05-15T16:32,2024,5.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,ASIA,TH,Rayong,,12.728116,101.644611,,,2024-05-30T06:01:05,2024,5.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-20.343954,148.981689,,,2024-06-01T10:45:52,2024,6.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,PH,Camarines Sur,,13.939959,123.656379,,,2024-06-11T17:41,2024,6.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,Sud,,-22.523624,166.409316,,,2024-06-12T12:46,2024,6.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.654697,147.021535,,,2024-07-01T11:17,2024,7.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.649027,147.170298,,,2024-07-01T14:01,2024,7.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Chanthaburi,,12.686389,102.121346,,,2024-07-01T06:44:33,2024,7.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.382545,103.911901,,,2024-07-06T12:49,2024,7.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.709487,147.128316,,,2024-07-13T11:44,2024,7.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.297114,103.970123,,,2024-07-06T10:56,2024,7.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.302466,103.824817,,,2024-07-06T12:19,2024,7.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Koror,,7.186915,134.234456,,,2024-07-05T15:02,2024,7.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,MY,Sabah,,6.81132,116.863746,,,2024-07-22T10:43,2024,7.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Sumatera Barat,,-1.060741,100.583645,,,2024-07-09T16:30:46,2024,7.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,KR,Jeollanam-do,,33.916667,127.083333,,,2024-07-05,2024,7.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.270023,103.840834,,,2024-08-04T19:16,2024,8.0,4.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Banten,,-6.033633,106.599275,,,2024-08-18T10:02:28,2024,8.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.325532,103.812964,,,2024-08-27T16:03,2024,8.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,IN,Daman and Diu,,20.694118,70.983378,,,2024-08-31T17:34,2024,8.0,31.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.278861,178.162785,,,2024-08-07T09:20,2024,8.0,7.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Western,,-17.300653,178.180324,,,2024-08-09T09:50,2024,8.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,MY,Sabah,,5.874823,116.170789,,,2024-08-01T19:02,2024,8.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,29.534205,34.942539,,,2024-08-17,2024,8.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SA,Jizan,,17.256843,42.409539,,,2024-09-11T17:22:09,2024,9.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Rayong,,12.69442,101.793774,,,2024-10-03T07:23:19,2024,10.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MY,,,3.178006,103.806526,,,2024-10-21T11:15:59,2024,10.0,21.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-10.738148,129.87842,,,2024-10-10T12:21:51,2024,10.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-17.784042,146.16072,,,2024-10-21T17:06:26,2024,10.0,21.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.161414,34.792251,,,2024-10-29,2024,10.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,ID,Papua Barat,,-2.098927,130.808112,,,2024-10-28T07:45,2024,10.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-22.468076,166.447302,,,2024-11-02T07:42,2024,11.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,FJ,Northern,,-16.66397,179.994614,,,2024-11-03T17:57,2024,11.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,SG,East,,1.239375,103.851609,,,2024-11-23T16:07,2024,11.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,MY,Sabah,,4.491464,118.900097,,,2024-11-15T10:32:17,2024,11.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,MG,Antsiranana,,-13.5791,48.020933,,,2024-11-25T13:49:43,2024,11.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,OM,Muscat,,23.656853,58.401429,,,2024-11-18T10:07:31,2024,11.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,MG,Toamasina,,-15.582143,49.673141,,,2024-11-11T15:39:21,2024,11.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Phuket,,7.907094,98.598205,,,2024-11-28T07:53:11,2024,11.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.078696,146.407788,,,2024-12-03T14:37,2024,12.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,EG,Janub Sina',,27.963768,34.576363,,,2024-12-12T12:59,2024,12.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Goa,,15.652478,73.713912,,,2024-12-23T23:33:41,2024,12.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,PH,Bohol,,9.459136,123.951433,,,2024-12-15T10:16:08,2024,12.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-21.929232,166.601721,,,2024-12-30T11:08,2024,12.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Kerala,,8.826858,76.510554,,,2024-12-24T07:39:27,2024,12.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,IN,Kerala,,8.953471,76.431943,,,2024-12-21T16:16:57,2024,12.0,21.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Papua Barat,,-2.247157,130.424118,,,2024-12-19T08:34,2024,12.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,2.0,,,,,PRESENT,AFRICA,YT,,,-12.936725,45.230998,,,2023-02-22,2023,2.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Queensland,,-17.974158,146.188325,,,2023-03-29T08:30:39,2023,3.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,MZ,Inhambane,,-21.561618,35.451072,,,2023-03-30T14:23:04,2023,3.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-22.36944,166.25389,,,2023-03-21,2023,3.0,21.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-22.5247,166.44398,,,2023-03-22,2023,3.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,AFRICA,YT,,,-12.64618,45.13308,,,2023-03-16,2023,3.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,,YT,,,-12.543656,44.939446,,,2023-03-16,2023,3.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,ASIA,TH,Rayong,,12.914409,101.45656,,,2023-04-23T15:39:43,2023,4.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TR,Mugla,,36.743306,29.040908,,,2023-04-16T15:36:16,2023,4.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Northern Territory,,-12.443168,130.768308,,,2023-04-02T18:59:38,2023,4.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Northern Territory,,-12.443811,130.785205,,,2023-04-02T18:59:38,2023,4.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-20.91792,167.27782,,,2023-04-26,2023,4.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,AFRICA,MZ,Inhambane,,-21.900758,35.426489,,,2023-04-13T17:18:56,2023,4.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,129.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,93.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,94.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,5.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,130.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,2.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,109.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,107.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-22.55427,166.416048,,,2023-05-08T15:39,2023,5.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TH,Rayong,,12.948668,101.571174,,,2023-05-09T08:10:07,2023,5.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,EG,,,24.78444,35.18167,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-28.194,153.576828,0.0,0.0,2023-05-02/2023-05-03,2023,5.0,
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,4.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,402.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-22.131866,113.877304,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,13.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,19.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,319.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,151.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:42Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,323.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,6.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,543.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,7.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,463.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:58Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,6.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,19.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,2.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,291.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1076.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-22.131866,113.877304,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,5.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:58Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-22.131866,113.877304,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,398.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1917.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,402.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:40Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-22.131866,113.877304,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:58Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1928.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,325.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,152.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:42Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,323.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,286.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829186,114.068733,,,2023-05-18T02:51Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,33.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,2.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-21.829588,114.174572,,,2023-05-18T01:30Z,2023,5.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,AU,,,-18.728482,147.00974,,,2023-06-18T17:46:40,2023,6.0,18.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,AU,,,-18.104951,146.562073,,,2023-06-29T19:05:42,2023,6.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Queensland,,-24.11288,152.714019,,,2023-06-19T09:09,2023,6.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-25.909723,153.196805,,,2023-06-14T09:31,2023,6.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,KR,Jeju-do,,33.236194,126.559472,,,2023-06-17,2023,6.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Sulawesi Tenggara,,-5.273259,123.53426,,,2023-06-10T15:48,2023,6.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,TH,Rayong,,12.801785,101.414342,,,2023-07-06T06:03:16,2023,7.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Queensland,,-23.9118,152.38382,,,2023-07-06T16:17:43,2023,7.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,PW,Koror,,7.368489,134.378684,,,2023-09-09T13:31:02,2023,9.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,CN,Guangdong,,23.519892,117.054545,,,2023-09-10T11:48:38,2023,9.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Western Australia,,-21.830989,114.178456,,,2023-09-11T14:11,2023,9.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TH,Prachuap Khiri Khan,,12.507724,99.876729,,,2023-10-26T15:03:47,2023,10.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,MG,Mahajanga,,-13.859418,47.610019,,,2023-10-24T12:19,2023,10.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-22.532305,166.558853,,,2023-11-26T09:10,2023,11.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,Sud,,-22.408364,166.549849,,,2023-11-26T09:30,2023,11.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,FJ,Northern,,-16.962956,179.461192,,,2023-11-30T05:47,2023,11.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Jawa Barat,,-6.307844,107.612364,,,2023-11-11T08:42:54,2023,11.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Victoria,,-38.39731,142.492286,,,2023-11-26,2023,11.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.106866,34.750308,,,2023-11-08,2023,11.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.603824,34.894168,,,2023-11-10,2023,11.0,10.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TW,Taiwan,,23.141636,121.240151,,,2023-12-29T13:48:49,2023,12.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,PW,Airai,,7.277174,134.544069,,,2023-12-08T05:51,2023,12.0,8.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-22.462958,166.463262,,,2023-12-30T08:44,2023,12.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,Male,Adult,PRESENT,,ID,Bali,,-8.770781,115.057281,,,2023-12-28T11:34:09,2023,12.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,MZ,Inhambane,,-22.926462,35.469172,,,2023-12-02,2023,12.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,SG,East,,1.323123,103.877341,,,2023-12-26T11:07:44,2023,12.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.219564,34.79881,,,2023-12-17,2023,12.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Sulawesi Utara,,1.763432,125.010991,,,2023-12-01T10:44,2023,12.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-21.59932,165.33922,,,2022-01-14,2022,1.0,14.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-20.62489,165.06259,,,2022-01-28,2022,1.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-20.83705,165.38351,,,2022-01-30,2022,1.0,30.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-20.74855,167.02897,,,2022-01-05,2022,1.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,,,-20.60191,165.04182,,,2022-01-28,2022,1.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-21.602158,165.318292,,,2022-02-27T09:30,2022,2.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,EG,Al Bahr al Ahmar,,27.722645,33.681007,,,2022-03-24T10:51Z,2022,3.0,24.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,Egg,PRESENT,,TW,,,25.3889,121.6647,,,2022-04-12,2022,4.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Eastern,,-18.075432,179.268893,,,2022-05-05T14:28,2022,5.0,5.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,Adult,PRESENT,,AU,,,-22.7173,113.5528,,,2022-05-22T10:14:14Z,2022,5.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,Adult,PRESENT,,AU,,,-22.7173,113.5528,,,2022-05-22T10:14:14Z,2022,5.0,22.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,64.0,,,,Egg,PRESENT,,TW,,,24.100696,119.639148,,,2022-05-11,2022,5.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Andhra Pradesh,,17.621183,83.207494,,,2022-06-25T17:05:38,2022,6.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,,FJ,Northern,,-17.040387,179.168742,,,2022-06-06T11:10,2022,6.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,Sud,,-22.414577,167.489367,,,2022-06-12T12:32,2022,6.0,12.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,Egg,PRESENT,,TW,,,24.198217,119.760067,,,2022-06-01,2022,6.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,Egg,PRESENT,,TW,,,24.198217,119.760067,,,2022-06-01,2022,6.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Andhra Pradesh,,17.783372,83.347422,,,2022-06-25T17:10:58,2022,6.0,25.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,HK,Islands,,22.200725,113.85483,,,2022-07-02,2022,7.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-22.527945,166.55172,,,2022-07-26T11:15,2022,7.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-22.531562,166.528578,,,2022-07-26T11:14,2022,7.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-18.716694,147.199292,,,2022-08-13T12:24,2022,8.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-24.109903,152.710027,,,2022-08-27T12:28,2022,8.0,27.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,AU,,,-16.7,146.3,,,2022-08-16T17:12Z,2022,8.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,,,-21.69057,165.46132,,,2022-08-09,2022,8.0,9.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Papua Barat,,-2.280179,130.545221,,,2022-09-16T09:58,2022,9.0,16.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-24.156728,151.887259,,,2022-09-11,2022,9.0,11.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Adult,PRESENT,OCEANIA,AU,Queensland,,-17.785772,146.159714,,,2022-10-17T07:12:40,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,244.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928357,113.535097,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,69.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928376,113.535068,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,3.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928435,113.535024,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,68.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928376,113.535068,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,6.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928403,113.535026,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,245.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928357,113.535097,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,2.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928376,113.535068,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,524.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928403,113.535026,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,3.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928435,113.535024,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,2.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928376,113.535068,,,2022-10-17,2022,10.0,17.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,3.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928403,113.535026,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,522.0,DNA Sequence reads,,,PRESENT,OCEANIA,AU,,,-25.928403,113.535026,,,2022-10-19,2022,10.0,19.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-9.899421,142.766771,,,2022-11-23T18:51:52,2022,11.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,FJ,Eastern,,-18.106885,179.289761,,,2022-12-03T07:45,2022,12.0,3.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,NC,Sud,,-22.558977,166.402465,,,2022-12-23T09:54,2022,12.0,23.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,,ID,Papua Barat,,-0.58564,130.79101,,,2022-12-15T14:53,2022,12.0,15.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Sud,,-22.514921,167.206866,,,2022-12-29T09:50,2022,12.0,29.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,ID,Bengkulu,,-4.867747,103.36425,,,2021-01-25T06:51:03,2021,1.0,25.0
+BOLD:AAB5512,10433110,,,,,,PRESENT,,AU,,,-15.997833,137.5225,,,2021-02-13,2021,2.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,,PRESENT,,AU,Northern Territory,,-15.997833,137.5225,,,2021-02-13,2021,2.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,,PRESENT,,AU,Northern Territory,,-15.997833,137.5225,,,2021-02-13,2021,2.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,AFRICA,ZA,KwaZulu-Natal,,-28.000236,32.419133,,,2021-03-06T13:15,2021,3.0,6.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,NC,Îles Loyauté,,-20.580128,166.546282,,,2021-05-13T14:47,2021,5.0,13.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,OCEANIA,AU,Queensland,,-18.613292,146.489958,,,2021-08-26T15:16:42,2021,8.0,26.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,Adult,PRESENT,,AU,,,-22.7391,113.5501,,,2021-08-28T12:03:03Z,2021,8.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,1.0,individuals,,Adult,PRESENT,,AU,,,-22.7391,113.5501,,,2021-08-28T12:03:03Z,2021,8.0,28.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,16.0,,,,Egg,PRESENT,,TW,,,24.191617,119.921867,,,2021-08-01,2021,8.0,1.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,,TW,,,24.056767,120.29145,,,2021-09-02,2021,9.0,2.0
+"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,TL,Manatuto,,-8.458524,125.816305,,,2021-09-12T04:17,2021,9.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,9.231697,-84.772925,,,2025-01-08T12:39:05,2025,1.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,NZ,,,-37.448771,177.870709,,,2025-01-10T15:25:53,2025,1.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,OM,Muscat,,23.624065,58.563665,,,2025-01-14T07:25,2025,1.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,PA,Veraguas,,7.693195,-81.656762,,,2025-01-24T11:26:09,2025,1.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,PA,Veraguas,,7.696513,-81.650887,,,2025-01-23T12:14:01,2025,1.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,New York,,40.917438,-72.261588,,,2025-01-08T09:59:37,2025,1.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,Hawaii,,19.947728,-155.941239,,,2025-01-14T10:45,2025,1.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,,,,35.095161,-46.36561,,,2025-01-25T18:15,2025,1.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Juvenile,PRESENT,,US,,,19.929457,-156.07889,,,2025-01-14T11:51,2025,1.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.808814,-94.582139,,,2025-02-01T00:23:39,2025,2.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,27.145108,-94.287463,,,2025-02-01T00:33,2025,2.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.945381,-97.037835,,,2025-02-01T00:17:40,2025,2.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,MV,,,4.179925,73.509617,,,2025-02-09T20:06:40,2025,2.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Juvenile,PRESENT,OCEANIA,NZ,Bay of Plenty,,-37.521668,177.966156,,,2025-02-20T14:07:02,2025,2.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,35.632624,-75.217802,,,2025-02-22T20:59:44,2025,2.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,BQ,Bonaire,,12.163136,-68.286875,,,2025-02-09T10:55,2025,2.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,Puducherry,,11.930892,79.787421,,,2025-02-17,2025,2.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Gampaha,,7.210326,79.831398,,,2025-02-22T05:39:27,2025,2.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Colima,,18.356312,-114.738201,,,2025-02-18T16:23,2025,2.0,18.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MZ,,,-11.247593,41.276207,,,2025-02-20T14:37,2025,2.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CO,,,7.118967,-77.92485,,,2025-03-05T13:22:57,2025,3.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.736873,-90.311629,,,2025-03-09T09:34:08,2025,3.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.399604,-95.083519,,,2025-03-23T06:15:28,2025,3.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.459661,-95.040718,,,2025-03-22T18:44,2025,3.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,AU,,,-27.885466,154.893569,,,2025-03-22T11:53,2025,3.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.460891,-95.055137,,,2025-03-22T18:34,2025,3.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,JP,Okinawa,,26.82805,128.273523,,,2025-03-03,2025,3.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,,PG,,,-3.369119,152.363257,,,2025-03-26T17:33,2025,3.0,26.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,28.66452,-88.961393,,,2025-04-13T08:37:15,2025,4.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Gampaha,,7.202942,79.829326,,,2025-04-25T06:03,2025,4.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Galle,,6.030341,80.217216,,,2025-04-21T07:03,2025,4.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,PA,Veraguas,,7.63044,-81.251849,,,2025-04-20T19:40,2025,4.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.838332,-97.067543,,,2025-05-04T17:28:24,2025,5.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.423269,-94.528893,,,2025-05-03T18:17,2025,5.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,CV,Sal,,16.588072,-22.916371,,,2025-05-01T19:54:52,2025,5.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,SC,,,-5.03473,55.09375,,,2025-06-05T15:33,2025,6.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,23.552687,-109.03678,,,2025-06-05T10:36:08,2025,6.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,23.552762,-109.036705,,,2025-06-05T11:06:43,2025,6.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,23.552762,-109.036705,,,2025-06-05T10:53:51,2025,6.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,10.199318,-86.149742,,,2025-06-19T09:51:07,2025,6.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,CL,Valparaíso,,-27.154312,-109.439012,,,2025-06-28T21:16:33,2025,6.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,ID,Sulawesi Tengah,,-0.423315,119.83523,,,2025-06-21T14:43,2025,6.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,PF,Îles Sous-le-Vent,,-16.709988,-151.038636,,,2025-07-05T17:34:44,2025,7.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,ID,,,-8.362342,115.846313,,,2025-07-14T08:13,2025,7.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.409212,-118.164153,,,2025-07-23T08:57:58,2025,7.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Gampaha,,7.20292,79.82872,,,2025-07-29T10:35,2025,7.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-1.22564,-90.4195,,,2025-07-16T14:12,2025,7.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,FJ,,,-17.7,177.2,,,2025-07-04T20:39Z,2025,7.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,Unknown,PRESENT,EUROPE,ES,Santa Cruz de Tenerife,,28.22,-16.87,,,2025-07-27,2025,7.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.391111,-91.225556,,,2025-08-10T00:44,2025,8.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,CR,Guanacaste,,10.706972,-85.688355,,,2025-08-11T08:32:40,2025,8.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.276263,-87.56913,,,2025-08-26T14:29:18,2025,8.0,26.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,BM,,,32.100964,-65.018958,,,2025-08-15T15:01:01,2025,8.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,MV,,,5.103353,73.072449,,,2025-08-20T07:01:35,2025,8.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,Indeterminate,,PRESENT,AFRICA,CV,São Vicente,,16.94073,-25.011489,,,2025-08-08T16:51,2025,8.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,40.31764,-71.756465,,,2025-08-10T08:21:05,2025,8.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,California,,32.837437,-117.275993,,,2025-09-11T10:03:20,2025,9.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.838334,-97.067534,,,2025-09-14T18:06:10,2025,9.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.82325,-72.678803,,,2025-09-13T16:10:16,2025,9.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-36.20925,150.129334,,,2025-09-21T15:20,2025,9.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,ES,Islas Canarias,,28.916092,-13.665748,,,2025-09-29T10:14,2025,9.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,8.272357,-83.827802,,,2025-09-21T13:53:14,2025,9.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.906081,-69.694994,,,2025-09-30T06:48:30,2025,9.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,,,,-14.188013,-112.232353,,,2025-09-11T00:49:11,2025,9.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,22.575824,-109.995293,,,2025-10-04T08:16:25,2025,10.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,TW,Taiwan,,22.791774,121.193323,,,2025-10-10T08:13:17,2025,10.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PG,,,-5.265314,145.862595,,,2025-10-24T15:17,2025,10.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.149808,-94.864968,,,2025-10-18T11:35:56,2025,10.0,18.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.150524,-94.863106,,,2025-10-18T11:35:28,2025,10.0,18.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,ID,,,-8.311638,119.273605,,,2025-10-05T13:03,2025,10.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,TW,,,22.269603,120.029931,,,2025-11-15T13:01:15,2025,11.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,30.310645,-116.097953,,,2025-11-02T08:04:11,2025,11.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.300364,-94.819491,,,2025-11-11T17:10,2025,11.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.838306,-97.067444,,,2025-11-16T18:28:26,2025,11.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.145014,-94.835345,,,2025-11-11T17:02,2025,11.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.287958,-95.061959,,,2025-11-22T17:05,2025,11.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,MY,Sabah,,4.478655,118.616883,,,2025-11-23T17:58:13,2025,11.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,22.440875,-109.99807,,,2025-11-13T10:50:13,2025,11.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,,,,11.743502,115.323254,,,2025-12-30T10:26,2025,12.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Colima,,19.099756,-104.346855,,,2024-01-02T17:17:04,2024,1.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,KM,Njazídja,,-11.705752,43.249075,,,2024-01-11T08:15:08,2024,1.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.649016,-72.288256,,,2024-01-19T14:01:49,2024,1.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Jalisco,,19.195954,-104.682498,,,2024-01-25T16:43,2024,1.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,Maharashtra,,18.946743,72.835772,,,2024-02-10T08:19:05,2024,2.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,SV,,,12.812152,-89.155338,,,2024-02-28T11:58:24,2024,2.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Galle,,6.03041,80.217197,,,2024-03-05T09:50,2024,3.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,8.165214,-83.370158,,,2024-03-25T11:46:18,2024,3.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,EC,Galápagos,,1.67311,-91.993159,,,2024-03-21T13:11,2024,3.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,21.163604,-105.928897,,,2024-03-28T00:42,2024,3.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-35.357177,150.477096,,,2024-03-27T11:38:57,2024,3.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.777219,-89.519443,,,2024-03-28T12:56,2024,3.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,BM,Sandys,,32.308691,-64.867396,,,2024-03-21T10:28:30,2024,3.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Gampaha,,7.21026,79.831245,,,2024-03-14T09:38:04,2024,3.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-1.226342,-90.420918,,,2024-04-12T11:26,2024,4.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.885655,-97.057144,,,2024-04-14T17:21:32,2024,4.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MZ,,,-11.341343,41.295969,,,2024-04-03T07:40,2024,4.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Manabi,,-0.932269,-80.721738,,,2024-04-02T17:48,2024,4.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,ASIA,TW,Taiwan,,22.237795,120.669583,,,2024-05-05T09:09:06,2024,5.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.606868,-95.026976,,,2024-05-19T17:47:13,2024,5.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,BM,Southampton,,32.231537,-64.891666,,,2024-05-15T12:48,2024,5.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CK,,,-21.363677,-160.06007,,,2024-05-17T12:15:34,2024,5.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,CV,Boa Vista,,16.174917,-22.918065,,,2024-05-31T14:03:53,2024,5.0,31.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,CV,Sal,,16.596826,-22.907566,,,2024-05-30T13:20:18,2024,5.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,FJ,,,-20.930358,178.775938,,,2024-06-03T17:32:03,2024,6.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,EC,Galápagos,,1.67834,-92.01634,,,2024-06-20T10:18:03,2024,6.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,25.785661,-89.352609,,,2024-06-16T15:06,2024,6.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,40.589553,-70.841843,,,2024-06-02T14:01,2024,6.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.796483,-75.547928,,,2024-06-03T15:55:24,2024,6.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,1.388443,-91.821133,,,2024-07-16T11:06:30,2024,7.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,,US,,,39.872241,-72.855924,,,2024-07-27T13:25,2024,7.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.235465,-90.574414,,,2024-07-19T07:21:55,2024,7.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MG,,,-18.9553,43.4388,,,2024-07-21T16:55,2024,7.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,Indeterminate,Adult,PRESENT,,CO,Chocó,,4.9231,-77.62076,,,2024-07-28,2024,7.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,Indeterminate,Adult,PRESENT,SOUTH_AMERICA,CO,Chocó,,6.78529,-77.69528,,,2024-07-30,2024,7.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,Indeterminate,Adult,PRESENT,,CO,Chocó,,4.9231,-77.62076,,,2024-07-28,2024,7.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,Indeterminate,Adult,PRESENT,SOUTH_AMERICA,CO,Chocó,,6.78529,-77.69528,,,2024-07-30,2024,7.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,35.50642,-74.791062,,,2024-08-29T12:43:13,2024,8.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,35.526242,-74.822297,,,2024-08-29T13:33:49,2024,8.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,40.15313,-68.57599,,,2024-08-24T21:28,2024,8.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,Kerala,,11.438212,75.696328,,,2024-08-02T14:14:48,2024,8.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,40.153708,-68.573422,,,2024-08-24T21:21:07,2024,8.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,Indeterminate,,PRESENT,SOUTH_AMERICA,CO,Chocó,,6.6767,-77.43103,,,2024-08-07,2024,8.0,7.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,28.436862,-89.101273,,,2024-09-14T14:39,2024,9.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Louisiana,,29.240189,-89.364549,,,2024-09-13T16:41:24,2024,9.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,25.216397,-112.807053,,,2024-09-29T12:26:23,2024,9.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,28.38802,-89.103439,,,2024-09-14T13:39:04,2024,9.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,,,24.95,-115.733333,,,2024-09-14T08:38,2024,9.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,,,24.969411,-115.726794,,,2024-09-14T10:56,2024,9.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,EC,Galápagos,,1.672351,-91.989974,,,2024-10-09T06:53,2024,10.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,YE,Hadramawt,,12.64621,53.370535,,,2024-10-31T08:41,2024,10.0,31.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.629793,-117.570769,,,2024-10-13T10:16:56,2024,10.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Baja California Sur,,27.069005,-114.267245,,,2024-11-13T07:53:06,2024,11.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Galle,,6.12608,80.266954,,,2024-11-22T10:05,2024,11.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,200.0,,,,,PRESENT,,CO,Valle del Cauca,,4.994157,-82.171268,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,200.0,,,,,PRESENT,,CO,Valle del Cauca,,4.997784,-82.169467,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,50.0,,,,,PRESENT,,CO,Valle del Cauca,,4.995434,-82.187117,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,10.0,,,,,PRESENT,,CO,Valle del Cauca,,4.993632,-82.169661,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,200.0,,,,,PRESENT,,CO,Valle del Cauca,,4.997179,-82.174121,,,2024-11-14,2024,11.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,50.0,,,,,PRESENT,,CO,Valle del Cauca,,4.997247,-82.17363,,,2024-11-15,2024,11.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,10.0,,,,,PRESENT,,CO,Valle del Cauca,,4.993277,-82.171292,,,2024-11-15,2024,11.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,100.0,,,,,PRESENT,,CO,Valle del Cauca,,4.999909,-82.186187,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,70.0,,,,,PRESENT,,CO,Valle del Cauca,,4.996692,-82.182559,,,2024-11-12,2024,11.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,US,Hawaii,,21.900745,-159.589142,,,2024-11-14T12:42:43,2024,11.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Nayarit,,20.750387,-105.378862,,,2024-12-05T10:49,2024,12.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,US,Hawaii,,19.671183,-156.022278,,,2024-12-22T12:07:51,2024,12.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-1.344441,-89.655604,,,2024-12-28T11:53:17,2024,12.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.839225,-97.066276,,,2024-12-15T17:23:50,2024,12.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,California,,32.711172,-117.173453,,,2024-12-14T12:14,2024,12.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,21.581865,-157.745905,,,2024-12-16T09:10:56,2024,12.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Malpelo,3.999989,-81.6005,150.0,150.0,2024,2024,,
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Malpelo,4.00766,-81.602544,150.0,150.0,2024,2024,,
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,FJ,,,-17.759719,177.056935,,,2023-01-06T12:39:35,2023,1.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,FJ,,,-17.50787,176.990935,,,2023-01-06T12:49:33,2023,1.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,FJ,,,-17.773213,177.020509,,,2023-01-06T12:11:18,2023,1.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.671242,-94.633311,,,2023-01-15T17:19:37,2023,1.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Jalisco,,19.195982,-104.682574,,,2023-01-27T18:02,2023,1.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,GT,,,13.429317,-91.373133,,,2023-01-23,2023,1.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,CV,Sal,,16.596538,-22.909913,,,2023-01-02T12:02:46,2023,1.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,GT,,,13.076343,-91.149289,,,2023-01-28,2023,1.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,10000.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.009019,-81.602572,,,2023-01-02,2023,1.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.947995,-94.697113,,,2023-02-19T20:27:53,2023,2.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.009019,-81.602572,,,2023-02-24,2023,2.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,4.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.004604,-81.604315,,,2023-02-26,2023,2.0,26.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,4.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.004604,-81.604315,,,2023-02-25,2023,2.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.503186,121.766741,,,2023-03-09T06:00,2023,3.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,19.0748,-112.0655,,,2023-03-01T11:53,2023,3.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.004604,-81.604315,,,2023-03-13,2023,3.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-03-15,2023,3.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-03-19,2023,3.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,20.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,3.993561,-81.615978,,,2023-03-19,2023,3.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Chocó,,5.622583,-77.361167,,,2023-03-07/2023-03-16,2023,3.0,
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,YT,,,-12.600364,44.924244,,,2023-03-20,2023,3.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,,,,,PRESENT,,YT,,,-12.546113,45.077797,,,2023-03-14,2023,3.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,21.039091,-106.128232,,,2023-04-04T09:24:11,2023,4.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.683255,-89.240447,,,2023-04-11T11:33:03,2023,4.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,MZ,Inhambane,,-22.14795,35.56135,,,2023-04-23T11:46,2023,4.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,19.426083,-155.985397,,,2023-05-28T11:08:13,2023,5.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.5633,-94.41333,,,2023-05-29T17:31:43,2023,5.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,21.817644,-159.634139,,,2023-05-11T15:38:11,2023,5.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Juvenile,PRESENT,,PT,,,36.748725,-32.193662,,,2023-06-12T07:40:30,2023,6.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Maryland,,38.333142,-75.098494,,,2023-06-29T17:58:41,2023,6.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,PH,Camarines Sur,,13.676092,123.693876,,,2023-06-29T16:13,2023,6.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,8.073088,-83.896176,,,2023-06-02T09:11,2023,6.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-06-18,2023,6.0,18.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-06-17,2023,6.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.004604,-81.604315,,,2023-06-13,2023,6.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,24.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-06-12,2023,6.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,30.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.004604,-81.604315,,,2023-06-12,2023,6.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,30.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.013255,-81.606486,,,2023-06-12,2023,6.0,12.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-06-16,2023,6.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.013255,-81.606486,,,2023-06-14,2023,6.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,AU,Western Australia,,-21.802542,114.226164,,,2023-06-09T19:20:44,2023,6.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,MX,,,24.81998,-90.290221,,,2023-07-14T16:19,2023,7.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,NORTH_AMERICA,US,Connecticut,,41.323872,-71.992928,,,2023-07-22T16:27:31,2023,7.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,,,,,-3.160985,1.267817,,,2023-07-11T21:09Z,2023,7.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,CO,Chocó,,6.011389,-77.353744,,,2023-07-28T07:53,2023,7.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,California,,33.97173,-118.446533,,,2023-08-07T15:13:37,2023,8.0,7.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,Adult,PRESENT,,US,,,40.083131,-70.497245,,,2023-08-29T02:59:21,2023,8.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,1.385417,-91.821825,,,2023-08-22T11:48,2023,8.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,PF,,,-15.00889,-148.27889,,,2023-08-20,2023,8.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,PF,,,-15.00889,-148.27889,,,2023-08-20,2023,8.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,CU,Guantánamo,,19.87301,-75.141287,,,2023-08-06T09:00,2023,8.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.681342,-117.630829,,,2023-09-10T17:33,2023,9.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.681342,-117.630829,,,2023-09-10T17:33,2023,9.0,10.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,BR,,,4.155803,-29.096575,,,2023-09-26T12:01:36,2023,9.0,26.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,MH,,,7.1543,171.283619,,,2023-09-09T03:55,2023,9.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,40.807533,-71.520945,,,2023-09-15T14:43,2023,9.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,3.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,3.998162,-81.611803,,,2023-09-27,2023,9.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,OCEANIA,AU,Western Australia,,-17.227697,119.355144,,,2023-09-08,2023,9.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,OCEANIA,AU,Western Australia,,-17.227697,119.355144,,,2023-09-08,2023,9.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,AU,Western Australia,,-17.429311,119.385403,,,2023-09-09,2023,9.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,AU,Western Australia,,-17.429311,119.385403,,,2023-09-09,2023,9.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,OCEANIA,AU,Western Australia,,-17.227697,119.355144,,,2023-09-08,2023,9.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.743419,-90.312065,,,2023-09-05T08:33,2023,9.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,26.138783,-94.863311,,,2023-10-08T18:18,2023,10.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.86045,-117.927575,,,2023-10-16T10:37:40,2023,10.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,EC,Galápagos,,1.682691,-91.999288,,,2023-10-26T16:05,2023,10.0,26.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,TW,,,22.442617,119.934655,,,2023-10-08T08:53:46,2023,10.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,3.998162,-81.611803,,,2023-10-02,2023,10.0,2.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-10-09,2023,10.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,500.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.013008,-81.610665,,,2023-10-09,2023,10.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,60.0,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Isla de Malpelo,4.000279,-81.612358,,,2023-10-11,2023,10.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,32.543628,-118.274534,,,2023-10-01T11:59,2023,10.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,TZ,Pemba South,,-5.502287,39.711772,,,2023-11-09T16:26:39,2023,11.0,9.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,27.173435,-93.952864,,,2023-11-11T16:12:51,2023,11.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.838952,-97.067167,,,2023-11-19T19:06:29,2023,11.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.844309,122.007837,,,2023-11-05T04:43,2023,11.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.84461,122.008256,,,2023-11-05T04:43,2023,11.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.844259,122.008234,,,2023-11-05T04:43,2023,11.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.844409,122.008572,,,2023-11-05T04:42,2023,11.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,EG,,,26.82819,33.98573,,,2023-11-17,2023,11.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.851628,121.996684,,,2023-11-04T03:31,2023,11.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,PH,,,20.847212,122.003293,,,2023-11-23T06:54,2023,11.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Jalisco,,19.200303,-104.683753,,,2023-12-23T15:55:08,2023,12.0,23.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,CW,,,12.267923,-69.128637,,,2023-12-27T04:45,2023,12.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,LK,Gampaha,,7.202829,79.828829,,,2023-12-21T06:19,2023,12.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,MX,Oaxaca,,15.665722,-96.491409,,,2023-12-15T10:28,2023,12.0,15.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,,,9.931233,76.267304,,,2023-12-03,2023,12.0,3.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.167086,-90.828239,,,2023-12-04T01:17,2023,12.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,,PRESENT,,GT,,,13.42471,-91.286256,,,2023,2023,,
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,27.271005,-94.630763,,,2022-01-30T18:29:45,2022,1.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,27.415786,-93.904868,,,2022-01-29T17:13,2022,1.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,CR,Guanacaste,,10.641855,-85.654787,,,2022-01-29T10:29,2022,1.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,Mississippi,,30.31282,-89.245652,,,2022-01-22T13:11,2022,1.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,TW,,,23.376505,119.825613,,,2022-01-20T11:48:28,2022,1.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,500.0,número-de-indivíduos,,,PRESENT,,BR,Rio de Janeiro,,-23.525167,-39.7335,,,2022-02-17,2022,2.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,MV,,,4.170864,73.512822,,,2022-03-17T09:36:20,2022,3.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,CV,Sal,,16.596697,-22.907545,,,2022-04-30T12:15,2022,4.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,ZA,Western Cape,,-34.360203,18.412162,,,2022-04-29T14:22,2022,4.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,MY,Sabah,,4.469981,118.600978,,,2022-04-08T10:52,2022,4.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,PA,Chiriquí,,7.978658,-82.039719,,,2022-04-30T13:55,2022,4.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,,,1.38921,-91.81395,,,2022-04-13,2022,4.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,CN,Guangxi,,21.05,109.117,,,2022-04-21,2022,4.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,BZ,Stann Creek,,16.739751,-87.79982,,,2022-05-11T21:04:58,2022,5.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,4.0,,,,Larva,PRESENT,,TW,,,24.042772,119.566791,,,2022-05-11,2022,5.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,4.0,169.0,Peso en kg,,,PRESENT,,CL,,,-36.666667,-76.0,,,2022-05-17T13:00,2022,5.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,175.0,Peso en kg,,,PRESENT,,CL,,,-36.0,-77.0,,,2022-05-13T21:00,2022,5.0,13.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,128.0,Peso en kg,,,PRESENT,,CL,,,-31.680556,-71.963889,,,2022-05-28T16:30,2022,5.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,85.0,Peso en kg,,,PRESENT,,CL,,,-36.966667,-77.3,,,2022-05-17T12:00,2022,5.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,45.0,Peso en kg,,,PRESENT,,CL,,,-35.5,-75.666667,,,2022-05-17T22:00,2022,5.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,68.0,Peso en kg,,,PRESENT,,CL,,,-31.833333,-72.666667,,,2022-05-19T10:00,2022,5.0,19.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,176.0,Peso en kg,,,PRESENT,,CL,,,-37.0,-77.0,,,2022-05-17T12:00,2022,5.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,Indeterminate,,PRESENT,,CL,,,-31.680556,-71.963889,,,2022-05-28T16:30,2022,5.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,182.0,Peso en kg,,,PRESENT,,CL,,,-32.083333,-71.983333,,,2022-05-29T15:00,2022,5.0,29.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,US,Hawaii,,21.464069,-158.217882,,,2022-06-11T10:52:34,2022,6.0,11.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,AU,,,-16.7,146.9,,,2022-06-20T16:12Z,2022,6.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,AFRICA,SN,Thiès,,14.485043,-17.074614,,,2022-06-05T12:55Z,2022,6.0,5.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,EG,,,25.3096,34.8604,,,2022-06-24,2022,6.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,CK,,,-21.199112,-159.78458,,,2022-06-04T10:25,2022,6.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,1.0,,,,Larva,PRESENT,,TW,,,24.198217,119.760067,,,2022-06-01,2022,6.0,1.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,NORTH_AMERICA,US,New York,,40.581776,-73.317194,,,2022-06-24T10:21,2022,6.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,Andhra Pradesh,,17.696062,83.301117,,,2022-06-25T17:12,2022,6.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,3.0,239.0,Peso en kg,,,PRESENT,,CL,,,-32.0,-72.0,,,2022-06-06T20:00,2022,6.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,2.0,145.0,Peso en kg,,,PRESENT,,CL,,,-35.5,-77.0,,,2022-06-14T23:00,2022,6.0,14.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,135.0,Peso en kg,Indeterminate,,PRESENT,,CL,,,-32.0,-72.0,,,2022-06-06T20:00,2022,6.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,75.5,Peso en kg,Indeterminate,,PRESENT,,CL,,,-32.0,-72.0,,,2022-06-06T20:00,2022,6.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,28.5,Peso en kg,Indeterminate,,PRESENT,,CL,,,-32.0,-72.0,,,2022-06-06T20:00,2022,6.0,6.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,PH,Camarines Sur,,13.678836,123.683576,,,2022-07-04T08:54,2022,7.0,4.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,Indeterminate,Adult,PRESENT,ASIA,MY,Sabah,,4.244651,117.891186,,,2022-07-31T08:33,2022,7.0,31.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,28.156708,-89.238022,,,2022-07-07T11:02:03,2022,7.0,7.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,OCEANIA,MP,,,15.246999,145.685951,,,2022-07-16T15:27:20,2022,7.0,16.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,IN,Tamil Nadu,,13.12512,80.295542,,,2022-08-21T06:44:20,2022,8.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.946977,-69.433545,,,2022-08-28T04:31,2022,8.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,SOUTH_AMERICA,EC,Galápagos,,-0.694119,-89.273819,,,2022-08-21T11:57,2022,8.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.965898,-69.566044,,,2022-08-30T02:13,2022,8.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.955433,-69.5348,,,2022-08-28T04:32:49,2022,8.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.920732,-69.476743,,,2022-08-28T03:54:04,2022,8.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,AU,,,-16.7,146.2,,,2022-08-17T17:17Z,2022,8.0,17.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.960012,-69.538063,,,2022-08-27T22:30:58,2022,8.0,27.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,15.0,número-de-indivíduos,,,PRESENT,,BR,Rio de Janeiro,,-23.5215,-39.7335,,,2022-08-24,2022,8.0,24.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,15.0,número-de-indivíduos,,,PRESENT,,BR,Rio de Janeiro,,-23.5215,-39.7335,,,2022-08-20,2022,8.0,20.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,15.0,número-de-indivíduos,,,PRESENT,,BR,Rio de Janeiro,,-23.5215,-39.7335,,,2022-08-21,2022,8.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,15.0,número-de-indivíduos,,,PRESENT,,BR,Rio de Janeiro,,-23.5215,-39.7335,,,2022-08-22,2022,8.0,22.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.976665,-69.567992,,,2022-08-30T06:45,2022,8.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,US,,,39.970124,-69.565301,,,2022-08-30T02:12:25,2022,8.0,30.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,CR,,,8.956317,-84.526908,,,2022-09-08T12:37:07,2022,9.0,8.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,PH,Negros Oriental,,9.304995,123.306092,,,2022-09-25T13:48:20,2022,9.0,25.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,ID,,,2.14839,118.54718,,,2022-09-21,2022,9.0,21.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,SR,,,8.0,-56.1,,,2022-09-28T21:35,2022,9.0,28.0
+"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,,TW,,,22.440128,119.936858,,,2022-10-08T08:47:08,2022,10.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Espírito Santo,,-20.292014,-40.286139,,,2025-01-03T10:15,2025,1.0,3.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,36.830238,-76.2959,,,2025-01-01T02:56,2025,1.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,36.830151,-76.29595,,,2025-01-01T02:51:38,2025,1.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,São Paulo,,-24.76407,-47.572347,,,2025-01-14T15:01,2025,1.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Pernambuco,,-7.840922,-34.84088,,,2025-01-05T06:03,2025,1.0,5.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,CN,Zhejiang,,29.85967,122.259797,,,2025-01-03T18:35,2025,1.0,3.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,Adult,PRESENT,ASIA,CN,Zhejiang,,30.264463,122.217029,,,2025-01-06T12:21:34,2025,1.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.237455,-81.281905,,,2025-01-29T15:22:35,2025,1.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,CN,Zhejiang,,30.358323,122.357815,,,2025-01-27T17:56:03,2025,1.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,HK,Islands,,22.290103,114.019372,,,2025-02-04T17:50:26,2025,2.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,SG,East,,1.305425,103.942475,,,2025-02-08T23:54:15,2025,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,IN,Puducherry,,11.906654,79.82394,,,2025-02-13T16:12,2025,2.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,GN,Conakry,,9.46292,-13.787487,,,2025-02-15T10:15:46Z,2025,2.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,OCEANIA,AU,Northern Territory,,-11.745854,130.640345,,,2025-02-25T08:10:27,2025,2.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.878405,-97.119177,,,2025-03-01T12:41:20,2025,3.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Campeche,,18.627902,-91.826099,,,2025-03-19T19:02,2025,3.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,North Carolina,,34.665278,-76.588611,,,2025-03-23T10:16:17,2025,3.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.123477,-97.169608,,,2025-03-08T20:46,2025,3.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,ASIA,IN,Tamil Nadu,,9.215135,79.358524,,,2025-03-09T09:29,2025,3.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Veracruz,,19.09951,-96.102441,,,2025-04-11T08:18,2025,4.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.82765,-97.140067,,,2025-04-04T10:44:18,2025,4.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.258826,-88.077873,,,2025-04-05T10:45:43,2025,4.0,5.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.311442,-94.773438,,,2025-04-17T09:26:41,2025,4.0,17.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.82787,-97.138939,,,2025-04-04T10:43:52,2025,4.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,Alabama,,30.231656,-88.114952,,,2025-04-05T10:54:46,2025,4.0,5.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.888787,-75.584189,,,2025-04-08T07:06:16,2025,4.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.890282,-75.585111,,,2025-04-08T06:55:51,2025,4.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Paraíba,,-6.926564,-34.868106,,,2025-04-21T10:38,2025,4.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.878019,-97.048019,,,2025-04-30T13:27:41,2025,4.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,ID,Jakarta Raya,,-6.093732,106.803868,,,2025-04-18T10:56:20,2025,4.0,18.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,IN,Karnataka,,13.348097,74.701789,,,2025-05-08T05:51:22,2025,5.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,IN,Karnataka,,13.347967,74.701717,,,2025-05-08T05:53:54,2025,5.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,IN,Karnataka,,13.348086,74.701772,,,2025-05-08T05:52:26,2025,5.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.620269,-76.566672,,,2025-05-20T09:01:57,2025,5.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,NORTH_AMERICA,US,Mississippi,,30.390099,-88.873333,,,2025-05-23T11:24,2025,5.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.832464,-97.116731,,,2025-05-31T11:42,2025,5.0,31.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.604314,-97.223525,,,2025-05-11T21:23,2025,5.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.647428,-78.927253,,,2025-06-13T09:24:52,2025,6.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,MZ,Sofala,,-20.674659,34.858424,,,2025-06-13T12:37:16,2025,6.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.64745,-78.927222,,,2025-06-13T09:25,2025,6.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.64745,-78.927222,,,2025-06-13T09:25,2025,6.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio de Janeiro,,-22.943361,-43.160187,,,2025-06-26T19:00,2025,6.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.831787,-97.120644,,,2025-07-07T11:57:22,2025,7.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,CO,Bolívar,,10.543176,-75.497527,,,2025-07-04T09:37,2025,7.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.837596,-97.067649,,,2025-07-12T21:07:55,2025,7.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,30.29393,-81.38612,,,2025-07-21T13:15:08,2025,7.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.338115,-94.778062,,,2025-07-20T17:51:16,2025,7.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.825912,-97.05062,,,2025-07-24T16:25:17,2025,7.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,ID,Bali,,-8.757335,115.1685,,,2025-07-22T14:01,2025,7.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.16546,-75.988736,,,2025-07-25T23:10,2025,7.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.38258,-94.860838,,,2025-07-27T11:44:23,2025,7.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,32.123194,-80.827956,,,2025-07-30T10:33:45,2025,7.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.835355,-97.103825,,,2025-07-31T10:12:03,2025,7.0,31.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Louisiana,,29.185842,-90.052994,,,2025-07-16T07:55:35,2025,7.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,ASIA,CN,Zhejiang,,29.903723,122.347192,,,2025-08-13T23:33:32,2025,8.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.761417,-78.78,,,2025-08-08T21:38:14,2025,8.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.215275,-81.29377,,,2025-08-08T08:25:20,2025,8.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.141579,-75.732369,,,2025-08-12T09:35:13,2025,8.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.131269,-75.71679,,,2025-08-12T05:53:29,2025,8.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,ASIA,CN,Zhejiang,,29.903634,122.29946,,,2025-08-14T22:04:25,2025,8.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,ASIA,CN,Zhejiang,,29.828399,122.233791,,,2025-08-16T03:22,2025,8.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.445075,-94.917811,,,2025-08-24T11:52:36,2025,8.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.82919,-97.289878,,,2025-08-06T09:03:34,2025,8.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.775647,-97.325112,,,2025-08-06T10:53:25,2025,8.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.444034,-94.915949,,,2025-08-24T11:52:32,2025,8.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,ASIA,CN,Zhejiang,,29.876825,122.366973,,,2025-08-21T21:09,2025,8.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.647328,-78.927078,,,2025-08-19T09:39:51,2025,8.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,ID,Sumatera Barat,,-1.230035,100.338821,,,2025-08-14T11:00:28,2025,8.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Juvenile,PRESENT,ASIA,CN,Zhejiang,,29.887083,122.21154,,,2025-08-17T03:18,2025,8.0,17.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,,PRESENT,ASIA,CN,Shandong,,36.180803,120.277097,,,2025-09-07T10:00:04,2025,9.0,7.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,,PRESENT,ASIA,CN,Shandong,,36.181192,120.277331,,,2025-09-07T10:28:35,2025,9.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.633291,-97.318586,,,2025-09-19T22:57:14,2025,9.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.196948,-87.975248,,,2025-09-20T15:04:49,2025,9.0,20.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,,PRESENT,ASIA,CN,Shandong,,36.098457,120.530769,,,2025-09-14T10:42:03,2025,9.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,ASIA,JP,Kanagawa,,35.271633,139.685008,,,2025-09-29T15:05,2025,9.0,29.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,,PRESENT,,CN,,,35.605918,120.303683,,,2025-09-09T11:22,2025,9.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Mississippi,,30.312505,-89.241119,,,2025-10-28T09:41:26,2025,10.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Paraíba,,-6.899477,-34.861661,,,2025-10-26,2025,10.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.406563,-87.683597,,,2025-10-16T17:40:28,2025,10.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.686008,-97.256562,,,2025-10-07T17:47:35,2025,10.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,28.332663,-96.463708,,,2025-10-04T13:14:08,2025,10.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.649375,-76.643608,,,2025-10-08T08:34:32,2025,10.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,CM,Sud,,2.389409,9.823485,,,2025-10-07T09:59:02,2025,10.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,29.052403,-80.910692,,,2025-11-07T15:12:25,2025,11.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.23825,-77.771478,,,2025-11-07T08:04:58,2025,11.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,27.854417,-80.452355,,,2025-11-16T19:09:48,2025,11.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,TW,,,25.246572,122.116928,,,2025-11-23T02:41:55,2025,11.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,TW,,,25.243612,122.118728,,,2025-11-23T02:50:27,2025,11.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,TW,,,25.239495,122.121645,,,2025-11-23T03:04:25,2025,11.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.603676,-97.213585,,,2025-11-28T17:42:45,2025,11.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,TH,Phangnga,,8.18265,98.493622,,,2025-11-07T14:58:50,2025,11.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-29.35956,-49.736641,,,2025-11-01T11:22:42,2025,11.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,32.149261,-80.823956,,,2025-11-01T10:08:49,2025,11.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.098592,-75.98033,,,2025-12-13T10:39:52,2025,12.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.357059,-75.49781,,,2025-12-30T10:07:56,2025,12.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,SOUTH_AMERICA,BR,Rio de Janeiro,,-22.985988,-43.188631,,,2024-01-08T10:16,2024,1.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,SN,Dakar,,14.761838,-17.46873,,,2024-01-24T19:45:13Z,2024,1.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,UY,Rocha,,-34.423124,-53.860989,,,2024-02-04T16:45,2024,2.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,26.946122,-80.081155,,,2024-02-09T11:34:02,2024,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,Female,Adult,PRESENT,ASIA,IN,Gujarat,,21.108,70.1,,,2024-02-08,2024,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.422123,-81.319537,,,2024-03-16T11:44:10,2024,3.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.269583,-88.05448,,,2024-03-16T16:21:43,2024,3.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,CU,Guantánamo,,19.898368,-75.169525,,,2024-03-01T21:00:53,2024,3.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Espírito Santo,,-20.292047,-40.286157,,,2024-03-08T07:41,2024,3.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,ASIA,TW,Taiwan,,22.791816,121.193314,,,2024-03-04T07:54,2024,3.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.261179,-87.981363,,,2024-04-06T14:31:20,2024,4.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.064658,-95.132336,,,2024-04-26T09:57:41,2024,4.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.404688,-81.303872,,,2024-04-26T15:19:07,2024,4.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.428172,-81.311363,,,2024-04-26T13:54:24,2024,4.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.262028,-88.047194,,,2024-04-16T15:09:55,2024,4.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.25898,-88.058144,,,2024-04-07T08:44:15,2024,4.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,32.451939,-80.334712,,,2024-04-06T11:33:08,2024,4.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.230387,-75.614625,,,2024-05-03T08:48:24,2024,5.0,3.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.111563,-75.975352,,,2024-05-12T07:23:04,2024,5.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.713514,-96.547095,,,2024-05-12T14:37:19,2024,5.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,São Paulo,,-25.00613,-47.915883,,,2024-05-15T09:33:31,2024,5.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,OCEANIA,AU,New South Wales,,-33.591117,151.204519,,,2024-05-25T19:07:06,2024,5.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.429737,-81.30967,,,2024-05-30T10:39:49,2024,5.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.238687,-88.063675,,,2024-06-04T13:40:37,2024,6.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.2681,-88.057,,,2024-06-04T14:12:22,2024,6.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.330261,-75.811401,,,2024-06-21T21:13:27,2024,6.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.836066,-97.069737,,,2024-06-27T06:51:47,2024,6.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.227894,-76.478636,,,2024-06-26T14:38:03,2024,6.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.238553,-88.063805,,,2024-06-04T13:40:32,2024,6.0,4.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,,,30.136845,-88.085892,,,2024-07-08T14:07:11,2024,7.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.273576,-87.579953,,,2024-07-03T07:19,2024,7.0,3.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.142778,-81.444442,,,2024-07-15T13:55:21,2024,7.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,JP,Ibaraki,,36.300608,140.571062,,,2024-07-07T10:49:15,2024,7.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Alabama,,30.25898,-88.113425,,,2024-07-21T13:07:55,2024,7.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.55937,-79.030442,,,2024-07-29T19:52:07,2024,7.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Maryland,,37.969161,-76.023926,,,2024-07-23T19:30,2024,7.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.647483,-78.927338,,,2024-07-30T09:59:30,2024,7.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,29.968249,-81.309103,,,2024-07-19T11:18:54,2024,7.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,28.40838,-80.595815,,,2024-08-02T01:22:19,2024,8.0,2.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.869514,-78.575374,,,2024-08-01T09:31:24,2024,8.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.87984,-75.579293,,,2024-08-16T20:09:23,2024,8.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.779714,-75.495094,,,2024-08-16T09:04,2024,8.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,OCEANIA,AU,Queensland,,-26.382188,153.093675,,,2024-08-19T14:41:07,2024,8.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.21703,-77.791283,,,2024-08-16T16:15:58,2024,8.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,Delaware,,38.593057,-75.057298,,,2024-08-15T19:03,2024,8.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.862204,-75.557204,,,2024-08-15T20:26,2024,8.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,JP,Kanagawa,,35.266634,139.749005,,,2024-08-13T08:07:14,2024,8.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.148686,-75.735847,,,2024-08-29T06:48,2024,8.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,36.8596,-76.298696,,,2024-08-31T06:42:50,2024,8.0,31.0
+"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,,PRESENT,ASIA,CN,Shandong,,36.051889,120.390498,,,2024-08-20T21:48,2024,8.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.910602,-75.593844,,,2024-08-15T20:31,2024,8.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,North Carolina,,35.934809,-75.465332,,,2024-08-15T20:31,2024,8.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.794124,-75.497729,,,2024-08-16T10:15,2024,8.0,16.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.605655,-97.213195,,,2024-08-14T20:20:55,2024,8.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,KR,Gyeongsangnam-do,,34.912749,128.445983,,,2024-08-12T23:20,2024,8.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Louisiana,,29.056822,-89.205089,,,2024-09-14T08:32,2024,9.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.991488,-80.844667,,,2024-09-09T13:17:46,2024,9.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,36.902698,-76.308988,,,2024-09-08T17:50:50,2024,9.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.637947,-76.641175,,,2024-09-11T08:48,2024,9.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,28.596531,-96.61511,,,2024-09-14T11:42,2024,9.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.761547,-78.779762,,,2024-09-20T21:04:51,2024,9.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.911217,-75.592963,,,2024-09-28T20:20:11,2024,9.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.911137,-75.592842,,,2024-09-28T20:20:19,2024,9.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.562845,-77.280533,,,2024-09-29T10:10:36,2024,9.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,25.999387,-97.294297,,,2024-09-29T10:07:57,2024,9.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.579971,-79.00378,,,2024-09-19T12:18,2024,9.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,35.911125,-75.592842,,,2024-09-28T20:19:54,2024,9.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.641292,-76.643775,,,2024-09-11T08:42,2024,9.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.654903,-76.648257,,,2024-09-11T20:36,2024,9.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,BM,,,32.008141,-64.485342,,,2024-09-14T20:25:41,2024,9.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,JP,Hyōgo,,34.606834,135.058371,,,2024-09-08T17:12:50,2024,9.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,34.776627,-76.737786,,,2024-09-24T19:56:26,2024,9.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,,,34.533005,-76.813087,,,2024-09-11T09:53,2024,9.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.826338,-97.051133,,,2024-10-05T18:25:32,2024,10.0,5.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,27.344822,-80.238728,,,2024-10-07T16:30,2024,10.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.276708,-94.849884,,,2024-10-05T19:19,2024,10.0,5.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,Texas,,26.048721,-97.195372,,,2024-10-08T10:00,2024,10.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,28.640505,-96.609812,,,2024-10-12T20:01:33,2024,10.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.839353,-97.076386,,,2024-10-19T02:14,2024,10.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,ID,Bali,,-8.757028,115.168406,,,2024-10-12T11:37:01,2024,10.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.965892,-97.090553,,,2024-10-20T00:12,2024,10.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,26.466938,-80.056703,,,2024-10-19T10:09:16,2024,10.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.018125,-76.339232,,,2024-10-24T19:04:33,2024,10.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.826545,-97.051436,,,2024-10-22T19:50:22,2024,10.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.258232,-76.010005,,,2024-10-27T14:52:41,2024,10.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.25615,-97.176251,,,2024-10-31T22:07:48,2024,10.0,31.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,33.684067,-78.886185,,,2024-10-22T07:42:04,2024,10.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Mississippi,,30.410625,-88.83985,,,2024-10-12T18:37:41,2024,10.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,28.6197,-96.619322,,,2024-10-13T07:39:25,2024,10.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.079415,-97.205964,,,2024-10-13T21:36,2024,10.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,JP,Wakayama,,34.186502,135.092287,,,2024-10-20,2024,10.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Mississippi,,30.388516,-88.544696,,,2024-11-09T18:05:21,2024,11.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.335305,-94.777838,,,2024-11-09T09:45:17,2024,11.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,,,38.628831,-74.894294,,,2024-11-07T16:01:35,2024,11.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Veracruz,,19.103276,-96.099224,,,2024-11-14T08:03:24,2024,11.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.116832,-81.407192,,,2024-11-25T13:13:32,2024,11.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.542775,-95.033142,,,2024-11-23T22:22:36,2024,11.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.370088,-94.813719,,,2024-11-27T10:32:32,2024,11.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,CN,Zhejiang,,30.208614,122.385904,,,2024-11-30T14:28:28,2024,11.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Florida,,29.998226,-81.335039,,,2024-11-28T10:28,2024,11.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,Texas,,27.899026,-97.136296,,,2024-11-29T22:17,2024,11.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.542753,-95.033158,,,2024-11-23T20:30:26,2024,11.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.818987,-97.082172,,,2024-12-07T16:56,2024,12.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.165028,-75.984625,,,2024-12-08T16:37:20,2024,12.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Mississippi,,30.32795,-89.24907,,,2024-12-29T14:54:44,2024,12.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.603858,-97.213495,,,2024-12-31T17:22:19,2024,12.0,31.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.104442,-97.321481,,,2024-12-28T21:23:20,2024,12.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.040882,-97.238735,,,2024-12-28T19:38,2024,12.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,NORTH_AMERICA,US,Virginia,,37.329903,-76.01355,,,2024-12-24T12:26:27,2024,12.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.664392,-97.314618,,,2024-12-12T17:38:33,2024,12.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.267013,-76.023269,,,2024-12-22T15:37:22,2024,12.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.330067,-76.013437,,,2024-12-26T13:15:05,2024,12.0,26.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.064187,-97.159894,,,2024-12-28T10:59:23,2024,12.0,28.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.20992,-94.854111,,,2024-12-30T01:51:56,2024,12.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Veracruz,,21.016576,-97.33186,,,2024-12-20T09:51:29,2024,12.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-33.278897,151.567633,,,2024-12-17T14:01,2024,12.0,17.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,MG,Toliary,,-25.025917,46.993605,,,2024-12-31T08:19:38,2024,12.0,31.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Santa Catarina,,-27.397127,-48.432372,,,2024-12-27T07:39:11,2024,12.0,27.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,CO,Valle del Cauca,Malpelo,3.999989,-81.6005,150.0,150.0,2024,2024,,
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,,,40.336941,-71.181684,,,2023-01-29,2023,1.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,,,40.612063,-71.335292,,,2023-01-30T19:15,2023,1.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,1.0,,,,Larva,PRESENT,,TW,,,25.217871,121.360576,,,2023-01-11,2023,1.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,UY,Rocha,,-33.769144,-53.404947,,,2023-02-06T19:40:41,2023,2.0,6.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-29.535503,-49.874053,,,2023-02-09T09:07:07,2023,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,UY,Rocha,,-33.909904,-53.51149,,,2023-02-14T11:39:17,2023,2.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,Adult,PRESENT,SOUTH_AMERICA,UY,Rocha,,-34.022136,-53.542002,,,2023-02-13T05:44,2023,2.0,13.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,UY,Rocha,,-34.059662,-53.551637,,,2023-02-24T11:49:56,2023,2.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-29.415827,-49.917908,,,2023-02-23T07:32:28,2023,2.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,UY,Rocha,,-34.050259,-53.541835,,,2023-02-03T15:49,2023,2.0,3.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,9.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,87.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.656258,-81.65285,,,2023-02-09,2023,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,315.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,439.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,574.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.447057,-81.721148,,,2023-02-08,2023,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,48.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.447057,-81.721148,,,2023-02-08,2023,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,440.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,315.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,19.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.59388,-81.711635,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,30.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.656258,-81.65285,,,2023-02-09,2023,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,5.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.636247,-81.69756,,,2023-02-08,2023,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,2.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.636247,-81.69756,,,2023-02-08,2023,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,14.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.447057,-81.721148,,,2023-02-08,2023,2.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,40.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.656258,-81.65285,,,2023-02-09,2023,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,10.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.701167,-81.624233,,,2023-02-07,2023,2.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,109.0,DNA Sequence reads,,,PRESENT,NORTH_AMERICA,PA,,,7.656258,-81.65285,,,2023-02-09,2023,2.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,AFRICA,CM,Sud-Ouest,,4.216727,8.986458,,,2023-03-11,2023,3.0,11.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,OCEANIA,AU,New South Wales,,-32.9,151.8,,,2023-03-09T10:22Z,2023,3.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-29.812816,-50.039515,,,2023-03-15T12:12:15,2023,3.0,15.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Veracruz,,19.104798,-96.098517,,,2023-03-08T06:07,2023,3.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,MX,Veracruz,,19.104393,-96.098356,,,2023-03-08T06:37,2023,3.0,8.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Louisiana,,29.254243,-90.660656,,,2023-04-22T11:52:21,2023,4.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-32.162009,-52.103466,,,2023-04-30T15:34:40,2023,4.0,30.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.317478,-94.837292,,,2023-04-19T14:23:06,2023,4.0,19.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,471.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.278267,32.48575,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,924.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,5.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,22.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,23.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,665.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,2912.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,4.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.278267,32.48575,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1398.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,678.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,68.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,472.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.278267,32.48575,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,55.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,9.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1934.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,63.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,501.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,957.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,2904.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,68.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1389.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,12.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,63.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,1908.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,16.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,711.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,12.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,713.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,20.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,500.0,DNA Sequence reads,,,PRESENT,AFRICA,ZA,,,-28.375317,32.42895,,,2023-04-14,2023,4.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Louisiana,,29.64133,-91.928238,,,2023-05-20T09:46:24,2023,5.0,20.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,EC,Guayas,,-2.671258,-80.239578,,,2023-05-23T11:30,2023,5.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.337503,-94.777733,,,2023-05-21T21:53:23,2023,5.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,29.381687,-94.859736,,,2023-06-03T20:27:27,2023,6.0,3.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.387078,-75.829014,,,2023-06-22T07:34:51,2023,6.0,22.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Georgia,,31.398655,-81.301812,,,2023-06-14T14:13:43,2023,6.0,14.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.077672,-75.696695,,,2023-06-23T09:45:33,2023,6.0,23.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,North Carolina,,36.316925,-75.806145,,,2023-06-21T20:59:34,2023,6.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,South Carolina,,32.205106,-80.681253,,,2023-06-29T07:51,2023,6.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Pará,,-0.85511,-46.601963,,,2023-07-01T12:10:54,2023,7.0,1.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.870899,-75.367098,,,2023-07-07T09:39:13,2023,7.0,7.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.165273,-75.988269,,,2023-07-12T09:59,2023,7.0,12.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Maryland,,38.879558,-76.496036,,,2023-07-25T09:12:56,2023,7.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Rio Grande do Sul,,-29.803371,-50.03487,,,2023-07-29,2023,7.0,29.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,SOUTH_AMERICA,BR,Paraíba,,-6.885983,-34.885482,,,2023-07-25T07:28,2023,7.0,25.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,27.747824,-97.119774,,,2023-07-24T01:27,2023,7.0,24.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,,US,Alabama,,28.6748,-87.82237,,,2023-07-21,2023,7.0,21.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,28.624874,-96.294003,,,2023-08-09T11:39:07,2023,8.0,9.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Virginia,,37.614803,-75.632477,,,2023-08-17T10:05,2023,8.0,17.0
+"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,NORTH_AMERICA,US,Texas,,26.079939,-97.205192,,,2023-08-19T02:24:48,2023,8.0,19.0
