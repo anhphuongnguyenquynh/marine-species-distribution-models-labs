@@ -37,7 +37,11 @@ Source: Corpenius link.
 - GBIF: Link. Lat, long, date and the type of fish. Presence/absence type of fish
 After crawling data from these sources, I filtered date, and lat long and preprocessing to get environmental data 
 
-## II. Solutions
+## II. Data Preprocessing
+- Problem: presence-only. Đây là vấn đề khá phổ biến đối với bài toán species distribution modelling. Không giống binary classification (dữ liệu có được là Có/Không rồi predict), mình chỉ có thể có dữ liệu có đối với 1 vài địa điểm, và không có nghĩa tất cả các điểm còn lại là không có, và số lượng các điểm có khá ít. Để giải quyết bài toán này, có 1 vài cách:
++ Thêm dữ liệu 
+
+## III. Solutions
 There are three main solutions to solve this problem:
 | **#** | **Method** | **Model** | **Description** | **Data Input** | **Evaluation metrics** | **Results** | **Link** | **Note** |
 |---|---|---|---|---|---|---|---|---|
