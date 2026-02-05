@@ -14,16 +14,19 @@ with:
 
 1.1 Environmental/ Oceanographic
 
-Spatial and temporal gradients of key oceanographic variables:
-- Temperature (Nhiệt độ bề mặt):
-- Mixed layer depth (Độ sâu lớp hỗn hợp):
-- Chlorophyll concentraion (Nồng độ diệp lục):
-- Normalized chlorophyll (Diệp lục chuẩn hóa):
-
-Besides, there are some other variables:
-- Salinity (Độ mặn) (Optional):
-- Phytoplankton concentration (Nồng độ thực vật phù du):
-- Dissolved oxygen (Oxy hòa tan) 
+| Biến (Tiếng Anh / Tiếng Việt) | Tên biến kỹ thuật | Đơn vị | Mô tả | Dataset ID |
+|---|---|---|---|---|
+| 1. Sea Water Potential Temperature (Nhiệt độ nước biển) | thetao | $^\circ C$ | Quyết định vùng nhiệt độ tối ưu và khả năng sinh tồn của cá. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+| 2. Sea Water Salinity (Độ mặn) | so | $10^{-3}$ (psu) | Quan trọng cho cá vùng cửa sông và các loài nhạy cảm với áp suất thẩm thấu. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+| 3. Eastward Velocity (Dòng chảy hướng Đông) | uo | $m/s$ | Thành phần vận tốc dòng chảy theo trục X. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+| 4. Northward Velocity (Dòng chảy hướng Bắc) | vo | $m/s$ | Thành phần vận tốc dòng chảy theo trục Y. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+| 5. Mixed Layer Thickness (Độ dày tầng hỗn hợp) | mlotst | $m$ | Độ sâu mà tại đó các đặc tính lý học được trộn lẫn đồng nhất. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+| 6. Mass Concentration of Chlorophyll-a (Nồng độ Diệp lục-a) | chl | $mg/m^3$ | Chỉ thị cho năng suất sinh học và sự hiện diện của thức ăn (phù du). | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
+| 7. Mole Concentration of Dissolved Oxygen (Oxy hòa tan) | o2 | $mmol/m^3$ | Nồng độ oxy trong nước; giới hạn vùng cư trú của các loài. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
+| 8. Net Primary Production of Carbon (Sản lượng sơ cấp thuần) | nppv | $mg/m^3/day$ | Tốc độ tạo ra vật chất hữu cơ, phản ánh độ giàu có của ngư trường. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
+| 9. Sea Water pH (Độ pH nước biển) | ph | $1$ | Chỉ số axit/kiềm, ảnh hưởng đến sự phát triển vỏ cá và rạn san hô. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
+| 10. Mole Concentration of Nitrate (Nồng độ Nitrate) | no3 | $mmol/m^3$ | Muối dinh dưỡng chính thúc đẩy sự phát triển của chuỗi thức ăn. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
+| 11. Sea Surface Height (Mực nước biển) | zos | $m$ | Giúp xác định các vùng nước trồi (upwelling) nơi thường có nhiều cá. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
 
 Note: Nhiều paper: SST + Chl-a + MLD = core predictors
 

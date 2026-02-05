@@ -1,0 +1,11 @@
+,thetao,scientificName,taxonKey,individualCount,organismQuantity,organismQuantityType,sex,lifeStage,occurrenceStatus,continent,countryCode,stateProvince,island,decimalLatitude,decimalLongitude,elevation,elevationAccuracy,coordinateUncertaintyInMeters,eventDate,year,month,day,Longitude_360
+0,27.766032714285718,"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,Juvenile,PRESENT,ASIA,SG,East,,1.346429,103.856472,,,31447.0,2025-01-18T13:50,2025.0,1.0,18.0,103.856472
+1,29.52407525,"Scomberomorus commerson (Lacepède, 1800)",2374255,,,,,,PRESENT,ASIA,IN,Kerala,,9.545512,76.362436,,,31236.0,2025-01-10T16:31:56,2025.0,1.0,10.0,76.362436
+2,23.928129333333334,"Thunnus albacares (Bonnaterre, 1788)",2374013,,,,,,PRESENT,ASIA,OM,Muscat,,23.624065,58.563665,,,4.0,2025-01-14T07:25,2025.0,1.0,14.0,58.563665
+3,10.917662111111111,"Trichiurus lepturus Linnaeus, 1758",2389407,,,,,,PRESENT,ASIA,CN,Zhejiang,,29.85967,122.259797,,,29433.0,2025-01-03T18:35,2025.0,1.0,3.0,122.259797
+4,10.20103675,"Trichiurus japonicus Temminck & Schlegel, 1844",2389414,,,,,Adult,PRESENT,ASIA,CN,Zhejiang,,30.264463,122.217029,,,29382.0,2025-01-06T12:21:34,2025.0,1.0,6.0,122.217029
+5,,"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,31.852388,34.654536,,,,2025-01-22,2025.0,1.0,22.0,34.654536
+6,19.4805415,"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.000751,34.72301,,,,2025-01-02,2025.0,1.0,2.0,34.72301
+7,19.957365142857146,"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.132769,34.764095,,,,2025-01-02,2025.0,1.0,2.0,34.764095
+8,19.36786783333333,"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.790454,34.926743,,,,2025-01-04,2025.0,1.0,4.0,34.926743
+9,18.9844075,"Scomberomorus commerson (Lacepède, 1800)",2374255,1.0,,,,,PRESENT,ASIA,IL,,,32.825866,35.015176,,,,2025-01-15,2025.0,1.0,15.0,35.015176
