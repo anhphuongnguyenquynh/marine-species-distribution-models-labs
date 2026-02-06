@@ -14,19 +14,18 @@ with:
 
 1.1 Environmental/ Oceanographic
 
-| Biến (Tiếng Anh / Tiếng Việt) | Tên biến kỹ thuật | Đơn vị | Mô tả | Dataset ID |
-|---|---|---|---|---|
-| 1. Sea Water Potential Temperature (Nhiệt độ nước biển) | thetao | $^\circ C$ | Quyết định vùng nhiệt độ tối ưu và khả năng sinh tồn của cá. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
-| 2. Sea Water Salinity (Độ mặn) | so | $10^{-3}$ (psu) | Quan trọng cho cá vùng cửa sông và các loài nhạy cảm với áp suất thẩm thấu. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
-| 3. Eastward Velocity (Dòng chảy hướng Đông) | uo | $m/s$ | Thành phần vận tốc dòng chảy theo trục X. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
-| 4. Northward Velocity (Dòng chảy hướng Bắc) | vo | $m/s$ | Thành phần vận tốc dòng chảy theo trục Y. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
-| 5. Mixed Layer Thickness (Độ dày tầng hỗn hợp) | mlotst | $m$ | Độ sâu mà tại đó các đặc tính lý học được trộn lẫn đồng nhất. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
-| 6. Mass Concentration of Chlorophyll-a (Nồng độ Diệp lục-a) | chl | $mg/m^3$ | Chỉ thị cho năng suất sinh học và sự hiện diện của thức ăn (phù du). | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
-| 7. Mole Concentration of Dissolved Oxygen (Oxy hòa tan) | o2 | $mmol/m^3$ | Nồng độ oxy trong nước; giới hạn vùng cư trú của các loài. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
-| 8. Net Primary Production of Carbon (Sản lượng sơ cấp thuần) | nppv | $mg/m^3/day$ | Tốc độ tạo ra vật chất hữu cơ, phản ánh độ giàu có của ngư trường. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
-| 9. Sea Water pH (Độ pH nước biển) | ph | $1$ | Chỉ số axit/kiềm, ảnh hưởng đến sự phát triển vỏ cá và rạn san hô. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
-| 10. Mole Concentration of Nitrate (Nồng độ Nitrate) | no3 | $mmol/m^3$ | Muối dinh dưỡng chính thúc đẩy sự phát triển của chuỗi thức ăn. | GLOBAL_ANALYSISFORECAST_BIO_001_028 |
-| 11. Sea Surface Height (Mực nước biển) | zos | $m$ | Giúp xác định các vùng nước trồi (upwelling) nơi thường có nhiều cá. | GLOBAL_ANALYSISFORECAST_PHY_001_024 |
+|  | **Product line** | **dataset_id** | **Spatial resolution** | **Lat-Long** | **Time** | **Environmental variables (En)** | **Environmental variables (VI)** | **Shorten variables** |
+|---|---|---|---|---|---|---|---|---|
+| **1** | **GLOBAL_ANALYSISFORECAST_PHY_001_024** |  | 1/12 degree 0.083 | Global : 180°W-180°E ; 89°S – 90°N | daily (10/2016 - now) |  |  |  |
+| 1.1 | [Link](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-024.pdf) | cmems_mod_glo_phy-thetao_anfc_0.083deg_P1D-m |  |  |  | Sea Surface Temperature SST | Nhiệt độ nước biển | thetao |
+| 1.2 |  | cmems_mod_glo_phy-so_anfc_0.083deg_P1D-m |  |  |  | Salinity | Độ mặn | so (psu) |
+| 1.3 |  | cmems_mod_glo_phy-cur_anfc_0.083deg_P1D-m |  |  |  | Eastward Velocity | Dòng chảy hướng Đông - trục X | uo (m/s) |
+| 1.4 |  | ^ |  |  |  | Northward Velocity | Dòng chảy hướng Bắc - trục Y | vo (m/s) |
+| 1.5 |  | cmems_mod_glo_phy_anfc_0.083deg_P1D-m |  |  |  | Mixed Layer Depth | Độ dày tầng hỗn hợp | mlotst (m) |
+| **2** | **GLOBAL_ANALYSISFORECAST_BIO_001_028** |  | 1/4 0.25 | Global ocean (180°W-180°E ; 90°S – 90°N) | daily |  |  |  |
+| 2.1 | [Link](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-028.pdf) | cmems_mod_glo_bgc-pft_anfc_0.25deg_P1D-m |  |  |  | Chlorophyll-a | Nồng độ diệp lục - a | chl (mg/m^3) |
+|  |  | ^ |  |  |  | Total Phytoplankton |  | phyc (mmol m-3) |
+| 2.2 |  | cmems_mod_glo_bgc-bio_anfc_0.25deg_P1D-m |  |  |  | Dissolved Oxygen | Oxy hòa tan | o2 (mmol/m^3) |
 
 Note: Nhiều paper: SST + Chl-a + MLD = core predictors
 
