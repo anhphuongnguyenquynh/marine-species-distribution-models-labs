@@ -17,15 +17,15 @@ with:
 |  | **Product line** | **dataset_id** | **Spatial resolution** | **Lat-Long** | **Time** | **Environmental variables (En)** | **Environmental variables (VI)** | **Shorten variables** |
 |---|---|---|---|---|---|---|---|---|
 | **1** | **GLOBAL_ANALYSISFORECAST_PHY_001_024** |  | 1/12 degree 0.083 | Global : 180°W-180°E ; 89°S – 90°N | daily (10/2016 - now) |  |  |  |
-| 1.1 | [Link](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-024.pdf) | cmems_mod_glo_phy-thetao_anfc_0.083deg_P1D-m |  |  |  | Sea Surface Temperature SST | Nhiệt độ nước biển | thetao |
+| 1.1 | https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-024.pdf | cmems_mod_glo_phy-thetao_anfc_0.083deg_P1D-m |  |  |  | Sea Surface Temperature SST | Nhiệt độ nước biển | thetao |
 | 1.2 |  | cmems_mod_glo_phy-so_anfc_0.083deg_P1D-m |  |  |  | Salinity | Độ mặn | so (psu) |
 | 1.3 |  | cmems_mod_glo_phy-cur_anfc_0.083deg_P1D-m |  |  |  | Eastward Velocity | Dòng chảy hướng Đông - trục X | uo (m/s) |
 | 1.4 |  | ^ |  |  |  | Northward Velocity | Dòng chảy hướng Bắc - trục Y | vo (m/s) |
 | 1.5 |  | cmems_mod_glo_phy_anfc_0.083deg_P1D-m |  |  |  | Mixed Layer Depth | Độ dày tầng hỗn hợp | mlotst (m) |
 | **2** | **GLOBAL_ANALYSISFORECAST_BIO_001_028** |  | 1/4 0.25 | Global ocean (180°W-180°E ; 90°S – 90°N) | daily |  |  |  |
-| 2.1 | [Link](https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-028.pdf) | cmems_mod_glo_bgc-pft_anfc_0.25deg_P1D-m |  |  |  | Chlorophyll-a | Nồng độ diệp lục - a | chl (mg/m^3) |
-|  |  | ^ |  |  |  | Total Phytoplankton |  | phyc (mmol m-3) |
+| 2.1 | https://documentation.marine.copernicus.eu/PUM/CMEMS-GLO-PUM-001-028.pdf | cmems_mod_glo_bgc-pft_anfc_0.25deg_P1D-m |  |  |  | Chlorophyll-a | Nồng độ diệp lục - a | chl (mg/m^3) |
 | 2.2 |  | cmems_mod_glo_bgc-bio_anfc_0.25deg_P1D-m |  |  |  | Dissolved Oxygen | Oxy hòa tan | o2 (mmol/m^3) |
+| 2.3 |  | ^ |  |  |  | Total Primary Production of Phyto | Lượng carbon hữu cơ được tạo ra bởi thực vật phù du (phytoplankton) | nppv (mg/m^3) |
 
 Note: Nhiều paper: SST + Chl-a + MLD = core predictors
 
