@@ -48,12 +48,13 @@ There are three main solutions to solve this problem:
 | **#** | **Method** | **Model** | **Description** | **Data Input** | **Evaluation metrics** | **Results** | **Link** | **Note** |
 |---|---|---|---|---|---|---|---|---|
 | **1** | **Statistical** |  |  |  |  |  |  |  |
-|  |  | Generalized Linear Model |  |  |  |  |  |  |
+|  |  | MaxEnt |  |  |  |  |  |  |
 | **2** | **Machine Learning** |  |  |  |  |  |  |  |
+| 2.1 |  | One-Class Support Vector Machine | Description | Tabular data: Fish species and environmental | Accuracy | 0.7857 | Link | Done |
 | **3** | **Deep Learning** |  |  |  |  |  |  |  |
-|  |  | Multi Layer Perceptron |  |  |  |  |  |  |
 
 ## III. Evaluation
 
 
 ## References
+- https://github.com/RYCKEWAERT/deepmaxent/blob/main/tutorial_deepmaxent.ipynb 
