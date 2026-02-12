@@ -33,24 +33,27 @@ Data types: NetDCF file
 Source: Corpenius link.
 
 1.2 Fishing data
+Mostly from GBIF
+- GBIF: [Link](https://www.gbif.org/dataset/197908d0-5565-11d8-b290-b8a03c50a862). Lat, long, date and the type of fish. Presence/absence type of fish
 - Global Fishing Watch: [Fleet + fish](https://globalfishingwatch.org/data-download/datasets/public-fishing-effort)
 - FAO: [Fish distribution source link](https://www.fao.org/fishery/en/collection/global_production?lang=en) Lat, long and the type of fish, missing date
 - OBIS: Link. 
-- GBIF: [Link](https://www.gbif.org/dataset/197908d0-5565-11d8-b290-b8a03c50a862). Lat, long, date and the type of fish. Presence/absence type of fish
 After crawling data from these sources, I filtered date, and lat long and preprocessing to get environmental data 
 
 ## II. Data Preprocessing
-- Problem: presence-only. Đây là vấn đề khá phổ biến đối với bài toán species distribution modelling. Không giống binary classification (dữ liệu có được là Có/Không rồi predict), mình chỉ có thể có dữ liệu có đối với 1 vài địa điểm, và không có nghĩa tất cả các điểm còn lại là không có, và số lượng các điểm có khá ít. Để giải quyết bài toán này, có 1 vài cách:
-+ Thêm dữ liệu 
+- Presence-only data: Prensence/Background or Presence/ Absences
 
 ## III. Solutions
 There are three main solutions to solve this problem:
 | **#** | **Method** | **Model** | **Description** | **Data Input** | **Evaluation metrics** | **Results** | **Link** | **Note** |
 |---|---|---|---|---|---|---|---|---|
 | **1** | **Statistical** |  |  |  |  |  |  |  |
-|  |  | MaxEnt |  |  |  |  |  |  |
+|  |  | |  |  |  |  |  |  |
 | **2** | **Machine Learning** |  |  |  |  |  |  |  |
-| 2.1 |  | One-Class Support Vector Machine | Description | Tabular data: Fish species and environmental | Accuracy | 0.7857 | Link | Done |
+| 2.1 | | MaxEnt |  | Presence-only | Accuracy, AUC | 0.6270, 0.2698 |  | Done |
+| 2.2 | | Boosted Regression Trees |  | Presence-only | Accuracy, AUC | 0.8413, 08413 |  | Done |
+| 2.3 | | Random Forest |  | Presence-Absences | Accuracy, AUC | 0.8413, 08413 |  | Done |
+| 2.4 | |Support Vector Machines |  | Presence-only | Accuracy, AUC | 0.8175, 0.6667 |  | Done |
 | **3** | **Deep Learning** |  |  |  |  |  |  |  |
 
 ## III. Evaluation
