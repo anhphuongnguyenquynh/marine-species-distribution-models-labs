@@ -53,11 +53,14 @@ There are three main solutions to solve this problem:
 | 2.1 | | MaxEnt |  | Presence-only | Accuracy, AUC | 0.6270, 0.2698 |  | Done |
 | 2.2 | | Boosted Regression Trees |  | Presence-only | Accuracy, AUC | 0.8413, 08413 |  | Done |
 | 2.3 | | Random Forest |  | Presence-Absences | Accuracy, AUC | 0.8413, 08413 |  | Done |
-| 2.4 | |Support Vector Machines |  | Presence-only | Accuracy, AUC | 0.8175, 0.6667 |  | Done |
+| 2.4 | | Support Vector Machines |  | Presence-only | Accuracy, AUC | 0.8175, 0.6667 |  | Done |
 | **3** | **Deep Learning** |  |  |  |  |  |  |  |
+| 3.1 |  | CNN |  | Presence-Absences |  |  |  |  |
+| 3.2 |  | LSTM |  | Presence-Absences |  |  |  |  |
+| 3.3 |  | CNN-LSTM | Presence-Absences |  |  |  |  |  |
 
-## III. Evaluation
+## IV. Evaluation
 
 
-## References
+## V. References
 - https://github.com/RYCKEWAERT/deepmaxent/blob/main/tutorial_deepmaxent.ipynb 
